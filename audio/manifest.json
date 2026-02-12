@@ -1,0 +1,5288 @@
+{
+  "d3f0927d5d39": {
+    "arabic": "أنا",
+    "hebrew": "אני",
+    "type": "vocabulary",
+    "filename": "vocab_d3f0927d5d39.wav"
+  },
+  "e121dca27c07": {
+    "arabic": "أنتَ",
+    "hebrew": "אתה",
+    "type": "vocabulary",
+    "filename": "vocab_e121dca27c07.wav"
+  },
+  "aae3e25f3329": {
+    "arabic": "أنتِ",
+    "hebrew": "את",
+    "type": "vocabulary",
+    "filename": "vocab_aae3e25f3329.wav"
+  },
+  "f8a271c7610d": {
+    "arabic": "هو",
+    "hebrew": "הוא",
+    "type": "vocabulary",
+    "filename": "vocab_f8a271c7610d.wav"
+  },
+  "487dd24054f4": {
+    "arabic": "هي",
+    "hebrew": "היא",
+    "type": "vocabulary",
+    "filename": "vocab_487dd24054f4.wav"
+  },
+  "6a07bad9c8ea": {
+    "arabic": "نحن / إحنا",
+    "hebrew": "אנחנו",
+    "type": "vocabulary",
+    "filename": "vocab_6a07bad9c8ea.wav"
+  },
+  "71ae205fa543": {
+    "arabic": "أنتم / إنتو",
+    "hebrew": "אתם",
+    "type": "vocabulary",
+    "filename": "vocab_71ae205fa543.wav"
+  },
+  "d4d9a3be25e8": {
+    "arabic": "هم / هن",
+    "hebrew": "הם",
+    "type": "vocabulary",
+    "filename": "vocab_d4d9a3be25e8.wav"
+  },
+  "c5d950490d13": {
+    "arabic": "مين",
+    "hebrew": "מי?",
+    "type": "vocabulary",
+    "filename": "vocab_c5d950490d13.wav"
+  },
+  "1773794e2193": {
+    "arabic": "شو / إيش",
+    "hebrew": "מה?",
+    "type": "vocabulary",
+    "filename": "vocab_1773794e2193.wav"
+  },
+  "072f54513741": {
+    "arabic": "متى / إيمتى",
+    "hebrew": "מתי?",
+    "type": "vocabulary",
+    "filename": "vocab_072f54513741.wav"
+  },
+  "ae4d21e642ad": {
+    "arabic": "وين",
+    "hebrew": "איפה?",
+    "type": "vocabulary",
+    "filename": "vocab_ae4d21e642ad.wav"
+  },
+  "ffa6ed3d0211": {
+    "arabic": "ليش",
+    "hebrew": "למה?",
+    "type": "vocabulary",
+    "filename": "vocab_ffa6ed3d0211.wav"
+  },
+  "53057879e678": {
+    "arabic": "كيف",
+    "hebrew": "איך?",
+    "type": "vocabulary",
+    "filename": "vocab_53057879e678.wav"
+  },
+  "c9525f113e12": {
+    "arabic": "قديش",
+    "hebrew": "כמה? (מחיר/כמות)",
+    "type": "vocabulary",
+    "filename": "vocab_c9525f113e12.wav"
+  },
+  "93d4afee9f3d": {
+    "arabic": "هادا",
+    "hebrew": "זה (הזה)",
+    "type": "vocabulary",
+    "filename": "vocab_93d4afee9f3d.wav"
+  },
+  "c861f3ba305e": {
+    "arabic": "هاي",
+    "hebrew": "זאת (הזאת)",
+    "type": "vocabulary",
+    "filename": "vocab_c861f3ba305e.wav"
+  },
+  "4ed4c29cd38e": {
+    "arabic": "فيه",
+    "hebrew": "יש",
+    "type": "vocabulary",
+    "filename": "vocab_4ed4c29cd38e.wav"
+  },
+  "763fe02bce0e": {
+    "arabic": "فش / ما في",
+    "hebrew": "אין",
+    "type": "vocabulary",
+    "filename": "vocab_763fe02bce0e.wav"
+  },
+  "5e543c0c13b2": {
+    "arabic": "بدي",
+    "hebrew": "אני רוצה",
+    "type": "vocabulary",
+    "filename": "vocab_5e543c0c13b2.wav"
+  },
+  "88e308c95578": {
+    "arabic": "عندي",
+    "hebrew": "יש לי",
+    "type": "vocabulary",
+    "filename": "vocab_88e308c95578.wav"
+  },
+  "64e0ea5277bd": {
+    "arabic": "هسا / هلأ",
+    "hebrew": "עכשיו",
+    "type": "vocabulary",
+    "filename": "vocab_64e0ea5277bd.wav"
+  },
+  "4445aaa14eae": {
+    "arabic": "إمبارح",
+    "hebrew": "אתמול",
+    "type": "vocabulary",
+    "filename": "vocab_4445aaa14eae.wav"
+  },
+  "c80744453e81": {
+    "arabic": "بكرا",
+    "hebrew": "מחר",
+    "type": "vocabulary",
+    "filename": "vocab_c80744453e81.wav"
+  },
+  "57702288e26a": {
+    "arabic": "اليوم",
+    "hebrew": "היום",
+    "type": "vocabulary",
+    "filename": "vocab_57702288e26a.wav"
+  },
+  "bdd2fce4dae9": {
+    "arabic": "هون",
+    "hebrew": "פה / כאן",
+    "type": "vocabulary",
+    "filename": "vocab_bdd2fce4dae9.wav"
+  },
+  "69514803cfa4": {
+    "arabic": "هناك",
+    "hebrew": "שם",
+    "type": "vocabulary",
+    "filename": "vocab_69514803cfa4.wav"
+  },
+  "e6f02b4098c6": {
+    "arabic": "كتير",
+    "hebrew": "הרבה",
+    "type": "vocabulary",
+    "filename": "vocab_e6f02b4098c6.wav"
+  },
+  "13e2826594c2": {
+    "arabic": "شوي",
+    "hebrew": "קצת",
+    "type": "vocabulary",
+    "filename": "vocab_13e2826594c2.wav"
+  },
+  "4067904e569b": {
+    "arabic": "كل",
+    "hebrew": "הכל",
+    "type": "vocabulary",
+    "filename": "vocab_4067904e569b.wav"
+  },
+  "5fa71d8830b4": {
+    "arabic": "ولا اشي",
+    "hebrew": "כלום / שום דבר",
+    "type": "vocabulary",
+    "filename": "vocab_5fa71d8830b4.wav"
+  },
+  "adccf8a0ab91": {
+    "arabic": "لو سمحت",
+    "hebrew": "בבקשה (בקשה)",
+    "type": "vocabulary",
+    "filename": "vocab_adccf8a0ab91.wav"
+  },
+  "6f5d561ec3ef": {
+    "arabic": "تفضل",
+    "hebrew": "בבקשה (נתינה)",
+    "type": "vocabulary",
+    "filename": "vocab_6f5d561ec3ef.wav"
+  },
+  "7172b0054003": {
+    "arabic": "شكراً",
+    "hebrew": "תודה",
+    "type": "vocabulary",
+    "filename": "vocab_7172b0054003.wav"
+  },
+  "8fbe4df1f1c0": {
+    "arabic": "متأسف",
+    "hebrew": "סליחה",
+    "type": "vocabulary",
+    "filename": "vocab_8fbe4df1f1c0.wav"
+  },
+  "bc147243d9aa": {
+    "arabic": "صح",
+    "hebrew": "נכון",
+    "type": "vocabulary",
+    "filename": "vocab_bc147243d9aa.wav"
+  },
+  "dcfc31887070": {
+    "arabic": "غلط",
+    "hebrew": "לא נכון / טעות",
+    "type": "vocabulary",
+    "filename": "vocab_dcfc31887070.wav"
+  },
+  "d6cc774518e8": {
+    "arabic": "ممكن",
+    "hebrew": "אפשר",
+    "type": "vocabulary",
+    "filename": "vocab_d6cc774518e8.wav"
+  },
+  "b915abf7a84a": {
+    "arabic": "ممنوع",
+    "hebrew": "אסור",
+    "type": "vocabulary",
+    "filename": "vocab_b915abf7a84a.wav"
+  },
+  "d82c72a9c20a": {
+    "arabic": "لازم",
+    "hebrew": "צריך",
+    "type": "vocabulary",
+    "filename": "vocab_d82c72a9c20a.wav"
+  },
+  "88c5b9a4671f": {
+    "arabic": "تمام / ماشي",
+    "hebrew": "בסדר",
+    "type": "vocabulary",
+    "filename": "vocab_88c5b9a4671f.wav"
+  },
+  "2930ec913b05": {
+    "arabic": "دغري",
+    "hebrew": "ישר",
+    "type": "vocabulary",
+    "filename": "vocab_2930ec913b05.wav"
+  },
+  "7135ce8538b2": {
+    "arabic": "يمين",
+    "hebrew": "ימינה",
+    "type": "vocabulary",
+    "filename": "vocab_7135ce8538b2.wav"
+  },
+  "28e54fbae0a5": {
+    "arabic": "شمال",
+    "hebrew": "שמאלה",
+    "type": "vocabulary",
+    "filename": "vocab_28e54fbae0a5.wav"
+  },
+  "f3a2072f24d2": {
+    "arabic": "فوق",
+    "hebrew": "למעלה",
+    "type": "vocabulary",
+    "filename": "vocab_f3a2072f24d2.wav"
+  },
+  "f00735643450": {
+    "arabic": "تحت",
+    "hebrew": "למטה",
+    "type": "vocabulary",
+    "filename": "vocab_f00735643450.wav"
+  },
+  "a4f681bfc278": {
+    "arabic": "جوا",
+    "hebrew": "בפנים",
+    "type": "vocabulary",
+    "filename": "vocab_a4f681bfc278.wav"
+  },
+  "219a488f97c5": {
+    "arabic": "برا",
+    "hebrew": "בחוץ",
+    "type": "vocabulary",
+    "filename": "vocab_219a488f97c5.wav"
+  },
+  "77fb88c43804": {
+    "arabic": "كبير",
+    "hebrew": "גדול",
+    "type": "vocabulary",
+    "filename": "vocab_77fb88c43804.wav"
+  },
+  "9b8dbe4b3cdc": {
+    "arabic": "صغير",
+    "hebrew": "קטן",
+    "type": "vocabulary",
+    "filename": "vocab_9b8dbe4b3cdc.wav"
+  },
+  "c590a35c2d69": {
+    "arabic": "جديد",
+    "hebrew": "חדש",
+    "type": "vocabulary",
+    "filename": "vocab_c590a35c2d69.wav"
+  },
+  "a3aab3a1f5d8": {
+    "arabic": "قديم",
+    "hebrew": "ישן",
+    "type": "vocabulary",
+    "filename": "vocab_a3aab3a1f5d8.wav"
+  },
+  "a10636dca8b4": {
+    "arabic": "أه / نعم",
+    "hebrew": "כן",
+    "type": "vocabulary",
+    "filename": "vocab_a10636dca8b4.wav"
+  },
+  "b27ea934ef89": {
+    "arabic": "لا",
+    "hebrew": "לא",
+    "type": "vocabulary",
+    "filename": "vocab_b27ea934ef89.wav"
+  },
+  "a2dd8ac82952": {
+    "arabic": "طيب / منيح",
+    "hebrew": "טוב",
+    "type": "vocabulary",
+    "filename": "vocab_a2dd8ac82952.wav"
+  },
+  "3be7c4f5ae40": {
+    "arabic": "مش منيح",
+    "hebrew": "רע",
+    "type": "vocabulary",
+    "filename": "vocab_3be7c4f5ae40.wav"
+  },
+  "3e083aa4f548": {
+    "arabic": "مع",
+    "hebrew": "עם",
+    "type": "vocabulary",
+    "filename": "vocab_3e083aa4f548.wav"
+  },
+  "f8b068592027": {
+    "arabic": "بدون / بلا",
+    "hebrew": "בלי",
+    "type": "vocabulary",
+    "filename": "vocab_f8b068592027.wav"
+  },
+  "cf8118971e37": {
+    "arabic": "قبل",
+    "hebrew": "לפני",
+    "type": "vocabulary",
+    "filename": "vocab_cf8118971e37.wav"
+  },
+  "90edff0f54d3": {
+    "arabic": "بعد",
+    "hebrew": "אחרי",
+    "type": "vocabulary",
+    "filename": "vocab_90edff0f54d3.wav"
+  },
+  "28b702cc79a1": {
+    "arabic": "على",
+    "hebrew": "על",
+    "type": "vocabulary",
+    "filename": "vocab_28b702cc79a1.wav"
+  },
+  "f22ca7e62884": {
+    "arabic": "جنب",
+    "hebrew": "ליד",
+    "type": "vocabulary",
+    "filename": "vocab_f22ca7e62884.wav"
+  },
+  "4936fc233856": {
+    "arabic": "بين",
+    "hebrew": "בין",
+    "type": "vocabulary",
+    "filename": "vocab_4936fc233856.wav"
+  },
+  "b72cd1b4844c": {
+    "arabic": "واحد",
+    "hebrew": "אחד",
+    "type": "vocabulary",
+    "filename": "vocab_b72cd1b4844c.wav"
+  },
+  "ab6cdcaac330": {
+    "arabic": "وحدة",
+    "hebrew": "אחת",
+    "type": "vocabulary",
+    "filename": "vocab_ab6cdcaac330.wav"
+  },
+  "ec2d24bb5da6": {
+    "arabic": "اتنين",
+    "hebrew": "שניים",
+    "type": "vocabulary",
+    "filename": "vocab_ec2d24bb5da6.wav"
+  },
+  "66138d105cc5": {
+    "arabic": "ثلاثة / تلاتة",
+    "hebrew": "שלוש",
+    "type": "vocabulary",
+    "filename": "vocab_66138d105cc5.wav"
+  },
+  "555e79ecd74a": {
+    "arabic": "أربعة",
+    "hebrew": "ארבע",
+    "type": "vocabulary",
+    "filename": "vocab_555e79ecd74a.wav"
+  },
+  "c3624b9ea11e": {
+    "arabic": "خمسة",
+    "hebrew": "חמש",
+    "type": "vocabulary",
+    "filename": "vocab_c3624b9ea11e.wav"
+  },
+  "f2c2013bc1c3": {
+    "arabic": "ستة",
+    "hebrew": "שש",
+    "type": "vocabulary",
+    "filename": "vocab_f2c2013bc1c3.wav"
+  },
+  "082a36d94f75": {
+    "arabic": "سبعة",
+    "hebrew": "שבע",
+    "type": "vocabulary",
+    "filename": "vocab_082a36d94f75.wav"
+  },
+  "be74f224c2bc": {
+    "arabic": "ثمانية / تمانية",
+    "hebrew": "שמונה",
+    "type": "vocabulary",
+    "filename": "vocab_be74f224c2bc.wav"
+  },
+  "e5f1340b9a1c": {
+    "arabic": "تسعة",
+    "hebrew": "תשע",
+    "type": "vocabulary",
+    "filename": "vocab_e5f1340b9a1c.wav"
+  },
+  "211adb766d2e": {
+    "arabic": "عشرة",
+    "hebrew": "עשר",
+    "type": "vocabulary",
+    "filename": "vocab_211adb766d2e.wav"
+  },
+  "42d19e5b2858": {
+    "arabic": "عشرين",
+    "hebrew": "עשרים",
+    "type": "vocabulary",
+    "filename": "vocab_42d19e5b2858.wav"
+  },
+  "7de15e3c62c7": {
+    "arabic": "مية",
+    "hebrew": "מאה",
+    "type": "vocabulary",
+    "filename": "vocab_7de15e3c62c7.wav"
+  },
+  "313b2c9a0d86": {
+    "arabic": "ألف",
+    "hebrew": "אלף",
+    "type": "vocabulary",
+    "filename": "vocab_313b2c9a0d86.wav"
+  },
+  "9cf48491ce58": {
+    "arabic": "أول",
+    "hebrew": "ראשון",
+    "type": "vocabulary",
+    "filename": "vocab_9cf48491ce58.wav"
+  },
+  "94dcf7198daa": {
+    "arabic": "آخر",
+    "hebrew": "אחרון",
+    "type": "vocabulary",
+    "filename": "vocab_94dcf7198daa.wav"
+  },
+  "ec063247c98b": {
+    "arabic": "أكثر",
+    "hebrew": "יותר",
+    "type": "vocabulary",
+    "filename": "vocab_ec063247c98b.wav"
+  },
+  "ab1a1e28eb18": {
+    "arabic": "أقل",
+    "hebrew": "פחות",
+    "type": "vocabulary",
+    "filename": "vocab_ab1a1e28eb18.wav"
+  },
+  "e14c6e0643c3": {
+    "arabic": "كثير",
+    "hebrew": "מאוד",
+    "type": "vocabulary",
+    "filename": "vocab_e14c6e0643c3.wav"
+  },
+  "b3ec0af29015": {
+    "arabic": "يمكن",
+    "hebrew": "אולי",
+    "type": "vocabulary",
+    "filename": "vocab_b3ec0af29015.wav"
+  },
+  "9bd34efdd214": {
+    "arabic": "دايماً",
+    "hebrew": "תמיד",
+    "type": "vocabulary",
+    "filename": "vocab_9bd34efdd214.wav"
+  },
+  "9faf33abdc51": {
+    "arabic": "أبداً",
+    "hebrew": "אף פעם",
+    "type": "vocabulary",
+    "filename": "vocab_9faf33abdc51.wav"
+  },
+  "55e10df74a49": {
+    "arabic": "مرات",
+    "hebrew": "לפעמים",
+    "type": "vocabulary",
+    "filename": "vocab_55e10df74a49.wav"
+  },
+  "8eeebe81816e": {
+    "arabic": "كمان",
+    "hebrew": "עוד",
+    "type": "vocabulary",
+    "filename": "vocab_8eeebe81816e.wav"
+  },
+  "f808e00cf941": {
+    "arabic": "بس",
+    "hebrew": "רק",
+    "type": "vocabulary",
+    "filename": "vocab_f808e00cf941.wav"
+  },
+  "5f969fe49bf6": {
+    "arabic": "ولا",
+    "hebrew": "או",
+    "type": "vocabulary",
+    "filename": "vocab_5f969fe49bf6.wav"
+  },
+  "71047399bff2": {
+    "arabic": "لأنه",
+    "hebrew": "כי",
+    "type": "vocabulary",
+    "filename": "vocab_71047399bff2.wav"
+  },
+  "26f68d1224c2": {
+    "arabic": "إذا / لو",
+    "hebrew": "אם",
+    "type": "vocabulary",
+    "filename": "vocab_26f68d1224c2.wav"
+  },
+  "47866c54e40b": {
+    "arabic": "لما",
+    "hebrew": "כאשר",
+    "type": "vocabulary",
+    "filename": "vocab_47866c54e40b.wav"
+  },
+  "0aa08b717e39": {
+    "arabic": "تبع / حق",
+    "hebrew": "של",
+    "type": "vocabulary",
+    "filename": "vocab_0aa08b717e39.wav"
+  },
+  "ce3a9ca69482": {
+    "arabic": "تبعي / إلي",
+    "hebrew": "שלי",
+    "type": "vocabulary",
+    "filename": "vocab_ce3a9ca69482.wav"
+  },
+  "6986573006d0": {
+    "arabic": "تبعك / إلك",
+    "hebrew": "שלך",
+    "type": "vocabulary",
+    "filename": "vocab_6986573006d0.wav"
+  },
+  "f74e78106067": {
+    "arabic": "يعطيك العافية",
+    "hebrew": "שייתן לך בריאות",
+    "type": "vocabulary",
+    "filename": "vocab_f74e78106067.wav"
+  },
+  "ccca2556b3ec": {
+    "arabic": "الله يعافيك",
+    "hebrew": "בריאות (תשובה)",
+    "type": "vocabulary",
+    "filename": "vocab_ccca2556b3ec.wav"
+  },
+  "c27a661ef825": {
+    "arabic": "سلامتك",
+    "hebrew": "החלמה מהירה",
+    "type": "vocabulary",
+    "filename": "vocab_c27a661ef825.wav"
+  },
+  "5f8ee4c8dbaa": {
+    "arabic": "الله يسلمك",
+    "hebrew": "שאלוהים ישמור עליך",
+    "type": "vocabulary",
+    "filename": "vocab_5f8ee4c8dbaa.wav"
+  },
+  "a7161731d355": {
+    "arabic": "بسيطة",
+    "hebrew": "זה פשוט/קל",
+    "type": "vocabulary",
+    "filename": "vocab_a7161731d355.wav"
+  },
+  "4c205e77a47c": {
+    "arabic": "إن شاء الله",
+    "hebrew": "בעזרת השם",
+    "type": "vocabulary",
+    "filename": "vocab_4c205e77a47c.wav"
+  },
+  "294ac50d083b": {
+    "arabic": "تعبان",
+    "hebrew": "עייף/מותש נפשית",
+    "type": "vocabulary",
+    "filename": "vocab_294ac50d083b.wav"
+  },
+  "7209d8881cf9": {
+    "arabic": "مضايق",
+    "hebrew": "לחוץ/מצוברח",
+    "type": "vocabulary",
+    "filename": "vocab_7209d8881cf9.wav"
+  },
+  "3714a8a4c2ea": {
+    "arabic": "عيب",
+    "hebrew": "בושה/חרפה",
+    "type": "vocabulary",
+    "filename": "vocab_3714a8a4c2ea.wav"
+  },
+  "ad1fd6d01180": {
+    "arabic": "حسد",
+    "hebrew": "קנאה/עין הרע",
+    "type": "vocabulary",
+    "filename": "vocab_ad1fd6d01180.wav"
+  },
+  "743e15f0335c": {
+    "arabic": "عيلة",
+    "hebrew": "משפחה",
+    "type": "vocabulary",
+    "filename": "vocab_743e15f0335c.wav"
+  },
+  "fd8fffcb74ea": {
+    "arabic": "أب / بابا",
+    "hebrew": "אבא",
+    "type": "vocabulary",
+    "filename": "vocab_fd8fffcb74ea.wav"
+  },
+  "19967d41a1fb": {
+    "arabic": "أم / ماما",
+    "hebrew": "אמא",
+    "type": "vocabulary",
+    "filename": "vocab_19967d41a1fb.wav"
+  },
+  "144c9e5de7cd": {
+    "arabic": "إبن",
+    "hebrew": "בן",
+    "type": "vocabulary",
+    "filename": "vocab_144c9e5de7cd.wav"
+  },
+  "409ffa715dc1": {
+    "arabic": "بنت",
+    "hebrew": "בת",
+    "type": "vocabulary",
+    "filename": "vocab_409ffa715dc1.wav"
+  },
+  "c8122a6faff3": {
+    "arabic": "أخ",
+    "hebrew": "אח",
+    "type": "vocabulary",
+    "filename": "vocab_c8122a6faff3.wav"
+  },
+  "34f52406bb0f": {
+    "arabic": "أخت",
+    "hebrew": "אחות",
+    "type": "vocabulary",
+    "filename": "vocab_34f52406bb0f.wav"
+  },
+  "857c901c526e": {
+    "arabic": "جد / سيدي",
+    "hebrew": "סבא",
+    "type": "vocabulary",
+    "filename": "vocab_857c901c526e.wav"
+  },
+  "f642a3af4818": {
+    "arabic": "جدة / ستي",
+    "hebrew": "סבתא",
+    "type": "vocabulary",
+    "filename": "vocab_f642a3af4818.wav"
+  },
+  "039c8b66a9b0": {
+    "arabic": "عم / خال",
+    "hebrew": "דוד",
+    "type": "vocabulary",
+    "filename": "vocab_039c8b66a9b0.wav"
+  },
+  "a748da92d150": {
+    "arabic": "عمة / خالة",
+    "hebrew": "דודה",
+    "type": "vocabulary",
+    "filename": "vocab_a748da92d150.wav"
+  },
+  "a7ecd34901ce": {
+    "arabic": "إبن عم / إبن خال",
+    "hebrew": "בן דוד",
+    "type": "vocabulary",
+    "filename": "vocab_a7ecd34901ce.wav"
+  },
+  "9103cad85ba5": {
+    "arabic": "بنت عم / بنت خال",
+    "hebrew": "בת דודה",
+    "type": "vocabulary",
+    "filename": "vocab_9103cad85ba5.wav"
+  },
+  "7878dfe9225d": {
+    "arabic": "حفيد",
+    "hebrew": "נכד",
+    "type": "vocabulary",
+    "filename": "vocab_7878dfe9225d.wav"
+  },
+  "0a3fd6aa0d5e": {
+    "arabic": "حفيدة",
+    "hebrew": "נכדה",
+    "type": "vocabulary",
+    "filename": "vocab_0a3fd6aa0d5e.wav"
+  },
+  "2ea4d8319e4c": {
+    "arabic": "زوج",
+    "hebrew": "בעל",
+    "type": "vocabulary",
+    "filename": "vocab_2ea4d8319e4c.wav"
+  },
+  "65359c1080ff": {
+    "arabic": "زوجة / مرا",
+    "hebrew": "אישה",
+    "type": "vocabulary",
+    "filename": "vocab_65359c1080ff.wav"
+  },
+  "cbc50f7dba8f": {
+    "arabic": "عريس",
+    "hebrew": "חתן",
+    "type": "vocabulary",
+    "filename": "vocab_cbc50f7dba8f.wav"
+  },
+  "4fff6acc1ee4": {
+    "arabic": "عروس",
+    "hebrew": "כלה",
+    "type": "vocabulary",
+    "filename": "vocab_4fff6acc1ee4.wav"
+  },
+  "3a3271e2eddf": {
+    "arabic": "حماة",
+    "hebrew": "חמות",
+    "type": "vocabulary",
+    "filename": "vocab_3a3271e2eddf.wav"
+  },
+  "0c1412d8204c": {
+    "arabic": "حمو",
+    "hebrew": "חם",
+    "type": "vocabulary",
+    "filename": "vocab_0c1412d8204c.wav"
+  },
+  "c8ca6348bf3d": {
+    "arabic": "نسيب",
+    "hebrew": "גיס",
+    "type": "vocabulary",
+    "filename": "vocab_c8ca6348bf3d.wav"
+  },
+  "bdf209898f3a": {
+    "arabic": "نسيبة",
+    "hebrew": "גיסה",
+    "type": "vocabulary",
+    "filename": "vocab_bdf209898f3a.wav"
+  },
+  "cc219cad0dba": {
+    "arabic": "جار",
+    "hebrew": "שכן",
+    "type": "vocabulary",
+    "filename": "vocab_cc219cad0dba.wav"
+  },
+  "f6e66f7198cc": {
+    "arabic": "جارة",
+    "hebrew": "שכנה",
+    "type": "vocabulary",
+    "filename": "vocab_f6e66f7198cc.wav"
+  },
+  "3e3d2cbc3921": {
+    "arabic": "صاحب / رفيق",
+    "hebrew": "חבר",
+    "type": "vocabulary",
+    "filename": "vocab_3e3d2cbc3921.wav"
+  },
+  "ff6f5f01bce1": {
+    "arabic": "صاحبة / رفيقة",
+    "hebrew": "חברה",
+    "type": "vocabulary",
+    "filename": "vocab_ff6f5f01bce1.wav"
+  },
+  "70d9e2eadf8e": {
+    "arabic": "ولد",
+    "hebrew": "ילד",
+    "type": "vocabulary",
+    "filename": "vocab_70d9e2eadf8e.wav"
+  },
+  "6b1409d45755": {
+    "arabic": "بنت صغيرة",
+    "hebrew": "ילדה",
+    "type": "vocabulary",
+    "filename": "vocab_6b1409d45755.wav"
+  },
+  "2f67fb23a214": {
+    "arabic": "طفل / بيبي",
+    "hebrew": "תינוק",
+    "type": "vocabulary",
+    "filename": "vocab_2f67fb23a214.wav"
+  },
+  "c178020876ab": {
+    "arabic": "يتيم",
+    "hebrew": "יתום",
+    "type": "vocabulary",
+    "filename": "vocab_c178020876ab.wav"
+  },
+  "0b4d33e7a2d4": {
+    "arabic": "أرملة",
+    "hebrew": "אלמנה",
+    "type": "vocabulary",
+    "filename": "vocab_0b4d33e7a2d4.wav"
+  },
+  "be0269e582bd": {
+    "arabic": "مطلق",
+    "hebrew": "גרוש",
+    "type": "vocabulary",
+    "filename": "vocab_be0269e582bd.wav"
+  },
+  "d4a3a58262fd": {
+    "arabic": "مطلقة",
+    "hebrew": "גרושה",
+    "type": "vocabulary",
+    "filename": "vocab_d4a3a58262fd.wav"
+  },
+  "ac2340ff57f8": {
+    "arabic": "أعزب",
+    "hebrew": "רווק",
+    "type": "vocabulary",
+    "filename": "vocab_ac2340ff57f8.wav"
+  },
+  "e27bb27180ed": {
+    "arabic": "عزباء",
+    "hebrew": "רווקה",
+    "type": "vocabulary",
+    "filename": "vocab_e27bb27180ed.wav"
+  },
+  "dfb3788de831": {
+    "arabic": "ضيف",
+    "hebrew": "אורח",
+    "type": "vocabulary",
+    "filename": "vocab_dfb3788de831.wav"
+  },
+  "3716983f0fb0": {
+    "arabic": "قريب",
+    "hebrew": "קרוב משפחה",
+    "type": "vocabulary",
+    "filename": "vocab_3716983f0fb0.wav"
+  },
+  "3ceb61eb9b4e": {
+    "arabic": "راس",
+    "hebrew": "ראש",
+    "type": "vocabulary",
+    "filename": "vocab_3ceb61eb9b4e.wav"
+  },
+  "842e4db53ef3": {
+    "arabic": "مخ / دماغ",
+    "hebrew": "מוח",
+    "type": "vocabulary",
+    "filename": "vocab_842e4db53ef3.wav"
+  },
+  "e661e46adc43": {
+    "arabic": "جمجمة",
+    "hebrew": "גולגולת",
+    "type": "vocabulary",
+    "filename": "vocab_e661e46adc43.wav"
+  },
+  "28fd1ff0d844": {
+    "arabic": "وجه",
+    "hebrew": "פנים",
+    "type": "vocabulary",
+    "filename": "vocab_28fd1ff0d844.wav"
+  },
+  "e64229c54c2e": {
+    "arabic": "جبين",
+    "hebrew": "מצח",
+    "type": "vocabulary",
+    "filename": "vocab_e64229c54c2e.wav"
+  },
+  "aafd365d66d9": {
+    "arabic": "عين",
+    "hebrew": "עין",
+    "type": "vocabulary",
+    "filename": "vocab_aafd365d66d9.wav"
+  },
+  "25d50594f48c": {
+    "arabic": "حاجب",
+    "hebrew": "גבה",
+    "type": "vocabulary",
+    "filename": "vocab_25d50594f48c.wav"
+  },
+  "72521dfa7ccd": {
+    "arabic": "جفن",
+    "hebrew": "עפעף",
+    "type": "vocabulary",
+    "filename": "vocab_72521dfa7ccd.wav"
+  },
+  "dc141c320f41": {
+    "arabic": "رمش",
+    "hebrew": "ריס",
+    "type": "vocabulary",
+    "filename": "vocab_dc141c320f41.wav"
+  },
+  "5a22d1f8e0c4": {
+    "arabic": "بؤبؤ",
+    "hebrew": "אישון",
+    "type": "vocabulary",
+    "filename": "vocab_5a22d1f8e0c4.wav"
+  },
+  "179a38cc7f31": {
+    "arabic": "أذن / دان",
+    "hebrew": "אוזן",
+    "type": "vocabulary",
+    "filename": "vocab_179a38cc7f31.wav"
+  },
+  "e73777bde675": {
+    "arabic": "أنف / منخار",
+    "hebrew": "אף",
+    "type": "vocabulary",
+    "filename": "vocab_e73777bde675.wav"
+  },
+  "92b7843b8bcb": {
+    "arabic": "تم / فم",
+    "hebrew": "פה",
+    "type": "vocabulary",
+    "filename": "vocab_92b7843b8bcb.wav"
+  },
+  "270f26446c98": {
+    "arabic": "شفة",
+    "hebrew": "שפה",
+    "type": "vocabulary",
+    "filename": "vocab_270f26446c98.wav"
+  },
+  "43ccdf8d99bd": {
+    "arabic": "لسان",
+    "hebrew": "לשון",
+    "type": "vocabulary",
+    "filename": "vocab_43ccdf8d99bd.wav"
+  },
+  "f2f018b2f839": {
+    "arabic": "سن",
+    "hebrew": "שן",
+    "type": "vocabulary",
+    "filename": "vocab_f2f018b2f839.wav"
+  },
+  "0f83811ca3ac": {
+    "arabic": "طاحونة",
+    "hebrew": "טוחנת",
+    "type": "vocabulary",
+    "filename": "vocab_0f83811ca3ac.wav"
+  },
+  "40d12d0431e7": {
+    "arabic": "لثة",
+    "hebrew": "חניכיים",
+    "type": "vocabulary",
+    "filename": "vocab_40d12d0431e7.wav"
+  },
+  "1fc1e0daa354": {
+    "arabic": "حلق / زور",
+    "hebrew": "גרון",
+    "type": "vocabulary",
+    "filename": "vocab_1fc1e0daa354.wav"
+  },
+  "66a08099b200": {
+    "arabic": "رقبة",
+    "hebrew": "צוואר",
+    "type": "vocabulary",
+    "filename": "vocab_66a08099b200.wav"
+  },
+  "edbe2614d7a7": {
+    "arabic": "كتف",
+    "hebrew": "כתף",
+    "type": "vocabulary",
+    "filename": "vocab_edbe2614d7a7.wav"
+  },
+  "bb78dbcca320": {
+    "arabic": "إيد",
+    "hebrew": "יד/זרוע",
+    "type": "vocabulary",
+    "filename": "vocab_bb78dbcca320.wav"
+  },
+  "0e874bd3b46c": {
+    "arabic": "كوع",
+    "hebrew": "מרפק",
+    "type": "vocabulary",
+    "filename": "vocab_0e874bd3b46c.wav"
+  },
+  "9d7b4fc81da7": {
+    "arabic": "إصبع",
+    "hebrew": "אצבע",
+    "type": "vocabulary",
+    "filename": "vocab_9d7b4fc81da7.wav"
+  },
+  "f240612e64b7": {
+    "arabic": "ظفر",
+    "hebrew": "ציפורן",
+    "type": "vocabulary",
+    "filename": "vocab_f240612e64b7.wav"
+  },
+  "d55724b9d59e": {
+    "arabic": "صدر",
+    "hebrew": "חזה",
+    "type": "vocabulary",
+    "filename": "vocab_d55724b9d59e.wav"
+  },
+  "89723698d878": {
+    "arabic": "قلب",
+    "hebrew": "לב",
+    "type": "vocabulary",
+    "filename": "vocab_89723698d878.wav"
+  },
+  "817bf03638d9": {
+    "arabic": "رئتين / فشة",
+    "hebrew": "ריאות",
+    "type": "vocabulary",
+    "filename": "vocab_817bf03638d9.wav"
+  },
+  "5b2771d85b59": {
+    "arabic": "معدة",
+    "hebrew": "קיבה",
+    "type": "vocabulary",
+    "filename": "vocab_5b2771d85b59.wav"
+  },
+  "534e579d8edb": {
+    "arabic": "بطن",
+    "hebrew": "בטן",
+    "type": "vocabulary",
+    "filename": "vocab_534e579d8edb.wav"
+  },
+  "e9060afdd7b1": {
+    "arabic": "كبد / كبدة",
+    "hebrew": "כבד",
+    "type": "vocabulary",
+    "filename": "vocab_e9060afdd7b1.wav"
+  },
+  "dcd9152101eb": {
+    "arabic": "كلية / كلاوي",
+    "hebrew": "כליות",
+    "type": "vocabulary",
+    "filename": "vocab_dcd9152101eb.wav"
+  },
+  "7185eac56ba5": {
+    "arabic": "مصارين",
+    "hebrew": "מעיים",
+    "type": "vocabulary",
+    "filename": "vocab_7185eac56ba5.wav"
+  },
+  "6f3214455766": {
+    "arabic": "ظهر",
+    "hebrew": "גב",
+    "type": "vocabulary",
+    "filename": "vocab_6f3214455766.wav"
+  },
+  "5c86bb2340e5": {
+    "arabic": "عمود فقري",
+    "hebrew": "עמוד שדרה",
+    "type": "vocabulary",
+    "filename": "vocab_5c86bb2340e5.wav"
+  },
+  "72b824d43c34": {
+    "arabic": "إجر",
+    "hebrew": "רגל",
+    "type": "vocabulary",
+    "filename": "vocab_72b824d43c34.wav"
+  },
+  "f1ffbb95fd08": {
+    "arabic": "ركبة",
+    "hebrew": "ברך",
+    "type": "vocabulary",
+    "filename": "vocab_f1ffbb95fd08.wav"
+  },
+  "be5d76c6e3ad": {
+    "arabic": "فخذ",
+    "hebrew": "ירך",
+    "type": "vocabulary",
+    "filename": "vocab_be5d76c6e3ad.wav"
+  },
+  "86cd14e597bb": {
+    "arabic": "كاحل",
+    "hebrew": "קרסול",
+    "type": "vocabulary",
+    "filename": "vocab_86cd14e597bb.wav"
+  },
+  "8bad76a6f7b4": {
+    "arabic": "قدم",
+    "hebrew": "כף רגל",
+    "type": "vocabulary",
+    "filename": "vocab_8bad76a6f7b4.wav"
+  },
+  "0ffba6408512": {
+    "arabic": "عظم",
+    "hebrew": "עצם",
+    "type": "vocabulary",
+    "filename": "vocab_0ffba6408512.wav"
+  },
+  "7570586ed213": {
+    "arabic": "دم",
+    "hebrew": "דם",
+    "type": "vocabulary",
+    "filename": "vocab_7570586ed213.wav"
+  },
+  "869f0bd58cfd": {
+    "arabic": "وريد / عرق",
+    "hebrew": "וריד",
+    "type": "vocabulary",
+    "filename": "vocab_869f0bd58cfd.wav"
+  },
+  "24c41499a488": {
+    "arabic": "شريان",
+    "hebrew": "עורק",
+    "type": "vocabulary",
+    "filename": "vocab_24c41499a488.wav"
+  },
+  "590cf1bae99f": {
+    "arabic": "عصب",
+    "hebrew": "עצב",
+    "type": "vocabulary",
+    "filename": "vocab_590cf1bae99f.wav"
+  },
+  "3f0a53457dd8": {
+    "arabic": "جلد",
+    "hebrew": "עור",
+    "type": "vocabulary",
+    "filename": "vocab_3f0a53457dd8.wav"
+  },
+  "a00e6e9ea2d2": {
+    "arabic": "عضلة",
+    "hebrew": "שריר",
+    "type": "vocabulary",
+    "filename": "vocab_a00e6e9ea2d2.wav"
+  },
+  "7db4b897ecff": {
+    "arabic": "بول",
+    "hebrew": "שתן",
+    "type": "vocabulary",
+    "filename": "vocab_7db4b897ecff.wav"
+  },
+  "9201499d2744": {
+    "arabic": "براز / خروج",
+    "hebrew": "צואה",
+    "type": "vocabulary",
+    "filename": "vocab_9201499d2744.wav"
+  },
+  "206f819512ff": {
+    "arabic": "كف",
+    "hebrew": "כף יד",
+    "type": "vocabulary",
+    "filename": "vocab_206f819512ff.wav"
+  },
+  "e65e144289ae": {
+    "arabic": "إبهام",
+    "hebrew": "אגודל",
+    "type": "vocabulary",
+    "filename": "vocab_e65e144289ae.wav"
+  },
+  "460570c2def0": {
+    "arabic": "ذقن",
+    "hebrew": "זקן",
+    "type": "vocabulary",
+    "filename": "vocab_460570c2def0.wav"
+  },
+  "2af18950ccb7": {
+    "arabic": "شوارب",
+    "hebrew": "שפם",
+    "type": "vocabulary",
+    "filename": "vocab_2af18950ccb7.wav"
+  },
+  "e80aadf630a1": {
+    "arabic": "شعر",
+    "hebrew": "שיער",
+    "type": "vocabulary",
+    "filename": "vocab_e80aadf630a1.wav"
+  },
+  "2e7b5ca598b7": {
+    "arabic": "خد",
+    "hebrew": "לחי",
+    "type": "vocabulary",
+    "filename": "vocab_2e7b5ca598b7.wav"
+  },
+  "fb12674be233": {
+    "arabic": "لوز",
+    "hebrew": "שקדים",
+    "type": "vocabulary",
+    "filename": "vocab_fb12674be233.wav"
+  },
+  "51a2ce8efadb": {
+    "arabic": "بروستاتا",
+    "hebrew": "ערמונית",
+    "type": "vocabulary",
+    "filename": "vocab_51a2ce8efadb.wav"
+  },
+  "d28183a2bf1d": {
+    "arabic": "رحم",
+    "hebrew": "רחם",
+    "type": "vocabulary",
+    "filename": "vocab_d28183a2bf1d.wav"
+  },
+  "0c0af8f7ca48": {
+    "arabic": "مثانة",
+    "hebrew": "שלפוחית",
+    "type": "vocabulary",
+    "filename": "vocab_0c0af8f7ca48.wav"
+  },
+  "68d397d2c3cd": {
+    "arabic": "طحال",
+    "hebrew": "טחול",
+    "type": "vocabulary",
+    "filename": "vocab_68d397d2c3cd.wav"
+  },
+  "fdf9a9772035": {
+    "arabic": "بنكرياس",
+    "hebrew": "לבלב",
+    "type": "vocabulary",
+    "filename": "vocab_fdf9a9772035.wav"
+  },
+  "bbfef630370d": {
+    "arabic": "مرارة",
+    "hebrew": "מרה",
+    "type": "vocabulary",
+    "filename": "vocab_bbfef630370d.wav"
+  },
+  "a7e8421761be": {
+    "arabic": "مريء",
+    "hebrew": "וושט",
+    "type": "vocabulary",
+    "filename": "vocab_a7e8421761be.wav"
+  },
+  "c3e4da73d2a7": {
+    "arabic": "قصبة هوائية",
+    "hebrew": "קנה נשימה",
+    "type": "vocabulary",
+    "filename": "vocab_c3e4da73d2a7.wav"
+  },
+  "2dfcb5143b67": {
+    "arabic": "حجاب حاجز",
+    "hebrew": "סרעפת",
+    "type": "vocabulary",
+    "filename": "vocab_2dfcb5143b67.wav"
+  },
+  "fecf9c4f8ae4": {
+    "arabic": "ترقوة",
+    "hebrew": "עצם הבריח",
+    "type": "vocabulary",
+    "filename": "vocab_fecf9c4f8ae4.wav"
+  },
+  "9fe39da3a166": {
+    "arabic": "حوض",
+    "hebrew": "עצם האגן",
+    "type": "vocabulary",
+    "filename": "vocab_9fe39da3a166.wav"
+  },
+  "475a5a4349eb": {
+    "arabic": "ساق",
+    "hebrew": "שוק",
+    "type": "vocabulary",
+    "filename": "vocab_475a5a4349eb.wav"
+  },
+  "c2b3fa1a4124": {
+    "arabic": "كعب",
+    "hebrew": "עקב",
+    "type": "vocabulary",
+    "filename": "vocab_c2b3fa1a4124.wav"
+  },
+  "d64dbe8afbee": {
+    "arabic": "إصبع كبير",
+    "hebrew": "בוהן",
+    "type": "vocabulary",
+    "filename": "vocab_d64dbe8afbee.wav"
+  },
+  "e8bb3a63a1be": {
+    "arabic": "مفصل",
+    "hebrew": "פרק",
+    "type": "vocabulary",
+    "filename": "vocab_e8bb3a63a1be.wav"
+  },
+  "7a42a2f72d91": {
+    "arabic": "وتر",
+    "hebrew": "גיד",
+    "type": "vocabulary",
+    "filename": "vocab_7a42a2f72d91.wav"
+  },
+  "dc6ed9f4d79a": {
+    "arabic": "رباط",
+    "hebrew": "רצועה",
+    "type": "vocabulary",
+    "filename": "vocab_dc6ed9f4d79a.wav"
+  },
+  "68f703e033fc": {
+    "arabic": "غضروف",
+    "hebrew": "סחוס",
+    "type": "vocabulary",
+    "filename": "vocab_68f703e033fc.wav"
+  },
+  "5ea628f81325": {
+    "arabic": "نخاع عظم",
+    "hebrew": "מח עצם",
+    "type": "vocabulary",
+    "filename": "vocab_5ea628f81325.wav"
+  },
+  "a689b0a906da": {
+    "arabic": "غدة",
+    "hebrew": "בלוטה",
+    "type": "vocabulary",
+    "filename": "vocab_a689b0a906da.wav"
+  },
+  "ba8d3d51a6fa": {
+    "arabic": "غدة درقية",
+    "hebrew": "בלוטת התריס",
+    "type": "vocabulary",
+    "filename": "vocab_ba8d3d51a6fa.wav"
+  },
+  "5805671aa99f": {
+    "arabic": "لمف",
+    "hebrew": "לימפה",
+    "type": "vocabulary",
+    "filename": "vocab_5805671aa99f.wav"
+  },
+  "5d98edeaff32": {
+    "arabic": "حبل شوكي",
+    "hebrew": "חוט שדרה",
+    "type": "vocabulary",
+    "filename": "vocab_5d98edeaff32.wav"
+  },
+  "b6b608e17321": {
+    "arabic": "فخذ / أربية",
+    "hebrew": "מפשעה",
+    "type": "vocabulary",
+    "filename": "vocab_b6b608e17321.wav"
+  },
+  "7243ba8e1e56": {
+    "arabic": "إبط",
+    "hebrew": "בית השחי",
+    "type": "vocabulary",
+    "filename": "vocab_7243ba8e1e56.wav"
+  },
+  "e60fd8afe717": {
+    "arabic": "سرة",
+    "hebrew": "טבור",
+    "type": "vocabulary",
+    "filename": "vocab_e60fd8afe717.wav"
+  },
+  "71617730b624": {
+    "arabic": "حلمة",
+    "hebrew": "פטמה",
+    "type": "vocabulary",
+    "filename": "vocab_71617730b624.wav"
+  },
+  "1ab217f7bb49": {
+    "arabic": "صدر / ثدي",
+    "hebrew": "שד",
+    "type": "vocabulary",
+    "filename": "vocab_1ab217f7bb49.wav"
+  },
+  "a7f6908484f6": {
+    "arabic": "حنجرة",
+    "hebrew": "גרון פנימי",
+    "type": "vocabulary",
+    "filename": "vocab_a7f6908484f6.wav"
+  },
+  "4d9991a2f867": {
+    "arabic": "بلعوم",
+    "hebrew": "לוע",
+    "type": "vocabulary",
+    "filename": "vocab_4d9991a2f867.wav"
+  },
+  "11a58b07b9ee": {
+    "arabic": "خصية",
+    "hebrew": "אשך",
+    "type": "vocabulary",
+    "filename": "vocab_11a58b07b9ee.wav"
+  },
+  "176a61b044e1": {
+    "arabic": "مبيض",
+    "hebrew": "שחלה",
+    "type": "vocabulary",
+    "filename": "vocab_176a61b044e1.wav"
+  },
+  "6fa1097534cb": {
+    "arabic": "مجرى البول",
+    "hebrew": "צינור השתן",
+    "type": "vocabulary",
+    "filename": "vocab_6fa1097534cb.wav"
+  },
+  "c63a8bb95172": {
+    "arabic": "قلفة",
+    "hebrew": "ערלה",
+    "type": "vocabulary",
+    "filename": "vocab_c63a8bb95172.wav"
+  },
+  "2a5db9aab5ce": {
+    "arabic": "ضلع",
+    "hebrew": "צלע",
+    "type": "vocabulary",
+    "filename": "vocab_2a5db9aab5ce.wav"
+  },
+  "d7eccf2077bd": {
+    "arabic": "عصعص",
+    "hebrew": "עצם הזנב",
+    "type": "vocabulary",
+    "filename": "vocab_d7eccf2077bd.wav"
+  },
+  "a8d2b0629831": {
+    "arabic": "أذن داخلية",
+    "hebrew": "אוזן פנימית",
+    "type": "vocabulary",
+    "filename": "vocab_a8d2b0629831.wav"
+  },
+  "ff9a922108df": {
+    "arabic": "أذن خارجية",
+    "hebrew": "אוזן חיצונית",
+    "type": "vocabulary",
+    "filename": "vocab_ff9a922108df.wav"
+  },
+  "95e827fc08c9": {
+    "arabic": "طبلة الأذن",
+    "hebrew": "תופית האוזן",
+    "type": "vocabulary",
+    "filename": "vocab_95e827fc08c9.wav"
+  },
+  "9f5b6ed49377": {
+    "arabic": "قرنية",
+    "hebrew": "קרנית",
+    "type": "vocabulary",
+    "filename": "vocab_9f5b6ed49377.wav"
+  },
+  "dadfbda89faf": {
+    "arabic": "شبكية",
+    "hebrew": "רשתית",
+    "type": "vocabulary",
+    "filename": "vocab_dadfbda89faf.wav"
+  },
+  "cbc21360a272": {
+    "arabic": "عدسة",
+    "hebrew": "עדשה",
+    "type": "vocabulary",
+    "filename": "vocab_cbc21360a272.wav"
+  },
+  "3b67a7696fc6": {
+    "arabic": "عصب البصر",
+    "hebrew": "עצב הראייה",
+    "type": "vocabulary",
+    "filename": "vocab_3b67a7696fc6.wav"
+  },
+  "33b2c5a89644": {
+    "arabic": "حنك",
+    "hebrew": "חך",
+    "type": "vocabulary",
+    "filename": "vocab_33b2c5a89644.wav"
+  },
+  "7c6991dce19c": {
+    "arabic": "لهاة",
+    "hebrew": "ענבל",
+    "type": "vocabulary",
+    "filename": "vocab_7c6991dce19c.wav"
+  },
+  "fbd944081e0f": {
+    "arabic": "فتحات الأنف",
+    "hebrew": "נחיריים",
+    "type": "vocabulary",
+    "filename": "vocab_fbd944081e0f.wav"
+  },
+  "5d80fe4c97b6": {
+    "arabic": "جدار القلب",
+    "hebrew": "דופן הלב",
+    "type": "vocabulary",
+    "filename": "vocab_5d80fe4c97b6.wav"
+  },
+  "ae21922896c6": {
+    "arabic": "صمام",
+    "hebrew": "מסתם",
+    "type": "vocabulary",
+    "filename": "vocab_ae21922896c6.wav"
+  },
+  "46aecebf7c0a": {
+    "arabic": "شريان رئيسي",
+    "hebrew": "עורק ראשי",
+    "type": "vocabulary",
+    "filename": "vocab_46aecebf7c0a.wav"
+  },
+  "f9e1626f448c": {
+    "arabic": "مرض",
+    "hebrew": "מחלה",
+    "type": "vocabulary",
+    "filename": "vocab_f9e1626f448c.wav"
+  },
+  "110ea31cdb73": {
+    "arabic": "مَوْت / وَفاة",
+    "hebrew": "מוות",
+    "type": "vocabulary",
+    "filename": "vocab_110ea31cdb73.wav"
+  },
+  "82625f2d80b0": {
+    "arabic": "تَطَوُّر / نُمُوّ",
+    "hebrew": "התפתחות",
+    "type": "vocabulary",
+    "filename": "vocab_82625f2d80b0.wav"
+  },
+  "e68c25fcdcc5": {
+    "arabic": "حَادِث قَلْبِي",
+    "hebrew": "אירוע לבבי",
+    "type": "vocabulary",
+    "filename": "vocab_e68c25fcdcc5.wav"
+  },
+  "4843b3c2523c": {
+    "arabic": "جَلْطَة دِمَاغِيَّة",
+    "hebrew": "אירוע מוחי",
+    "type": "vocabulary",
+    "filename": "vocab_4843b3c2523c.wav"
+  },
+  "6807ec6ddb1c": {
+    "arabic": "ألم / وجع",
+    "hebrew": "כאב",
+    "type": "vocabulary",
+    "filename": "vocab_6807ec6ddb1c.wav"
+  },
+  "6bc28057ca9f": {
+    "arabic": "حمى / حرارة / سخونة",
+    "hebrew": "חום",
+    "type": "vocabulary",
+    "filename": "vocab_6bc28057ca9f.wav"
+  },
+  "017150dbf9f8": {
+    "arabic": "صداع / وجع راس",
+    "hebrew": "כאב ראש",
+    "type": "vocabulary",
+    "filename": "vocab_017150dbf9f8.wav"
+  },
+  "e5dd8e67afd8": {
+    "arabic": "دوار / دوخة",
+    "hebrew": "סחרחורת",
+    "type": "vocabulary",
+    "filename": "vocab_e5dd8e67afd8.wav"
+  },
+  "76ece107195d": {
+    "arabic": "غثيان / لعيان نفس",
+    "hebrew": "בחילה",
+    "type": "vocabulary",
+    "filename": "vocab_76ece107195d.wav"
+  },
+  "c144d2188e37": {
+    "arabic": "تقيؤ / إستفراغ",
+    "hebrew": "הקאה",
+    "type": "vocabulary",
+    "filename": "vocab_c144d2188e37.wav"
+  },
+  "567bc787f439": {
+    "arabic": "إسهال / مشي",
+    "hebrew": "שלשול",
+    "type": "vocabulary",
+    "filename": "vocab_567bc787f439.wav"
+  },
+  "071f9b31fbf6": {
+    "arabic": "إمساك",
+    "hebrew": "עצירות",
+    "type": "vocabulary",
+    "filename": "vocab_071f9b31fbf6.wav"
+  },
+  "8916b063dafc": {
+    "arabic": "سعال / قحة",
+    "hebrew": "שיעול",
+    "type": "vocabulary",
+    "filename": "vocab_8916b063dafc.wav"
+  },
+  "a693c73930e6": {
+    "arabic": "زكام / رشح",
+    "hebrew": "נזלת/צינון",
+    "type": "vocabulary",
+    "filename": "vocab_a693c73930e6.wav"
+  },
+  "3997f7bb36ce": {
+    "arabic": "إنفلونزا / גריפ",
+    "hebrew": "שפעת",
+    "type": "vocabulary",
+    "filename": "vocab_3997f7bb36ce.wav"
+  },
+  "f17c3f0b9785": {
+    "arabic": "إلتهاب",
+    "hebrew": "דלקת",
+    "type": "vocabulary",
+    "filename": "vocab_f17c3f0b9785.wav"
+  },
+  "1f2db3d6cbf5": {
+    "arabic": "عدوى / تلوث",
+    "hebrew": "זיהום",
+    "type": "vocabulary",
+    "filename": "vocab_1f2db3d6cbf5.wav"
+  },
+  "e8355cf5b718": {
+    "arabic": "حساسية",
+    "hebrew": "אלרגיה",
+    "type": "vocabulary",
+    "filename": "vocab_e8355cf5b718.wav"
+  },
+  "5b33721f0f87": {
+    "arabic": "سكري / سكر",
+    "hebrew": "סוכרת",
+    "type": "vocabulary",
+    "filename": "vocab_5b33721f0f87.wav"
+  },
+  "b4fb9ca6bab4": {
+    "arabic": "ضغط دم / ضغط",
+    "hebrew": "לחץ דם",
+    "type": "vocabulary",
+    "filename": "vocab_b4fb9ca6bab4.wav"
+  },
+  "cdeecec4ef65": {
+    "arabic": "سرطان / المرض الخبيث",
+    "hebrew": "סרטן",
+    "type": "vocabulary",
+    "filename": "vocab_cdeecec4ef65.wav"
+  },
+  "623de9debbf3": {
+    "arabic": "نوبة قلبية / جلطة",
+    "hebrew": "התקף לב",
+    "type": "vocabulary",
+    "filename": "vocab_623de9debbf3.wav"
+  },
+  "14b97ede4a94": {
+    "arabic": "سكتة دماغية / جلطة",
+    "hebrew": "שבץ מוחי",
+    "type": "vocabulary",
+    "filename": "vocab_14b97ede4a94.wav"
+  },
+  "d0ad0b5e7a2e": {
+    "arabic": "كسر",
+    "hebrew": "שבר",
+    "type": "vocabulary",
+    "filename": "vocab_d0ad0b5e7a2e.wav"
+  },
+  "653f029615ef": {
+    "arabic": "حرق",
+    "hebrew": "כוויה",
+    "type": "vocabulary",
+    "filename": "vocab_653f029615ef.wav"
+  },
+  "ddcafcc39054": {
+    "arabic": "حكة",
+    "hebrew": "גרד/גירוד",
+    "type": "vocabulary",
+    "filename": "vocab_ddcafcc39054.wav"
+  },
+  "cbbc639b019d": {
+    "arabic": "طفح جلدي / حساسية",
+    "hebrew": "פריחה",
+    "type": "vocabulary",
+    "filename": "vocab_cbbc639b019d.wav"
+  },
+  "49454ce39091": {
+    "arabic": "فقر دم / أنيميا",
+    "hebrew": "אנמיה",
+    "type": "vocabulary",
+    "filename": "vocab_49454ce39091.wav"
+  },
+  "a30e10a32c5c": {
+    "arabic": "ربو / أزمة / ضيقة نفس",
+    "hebrew": "אסתמה",
+    "type": "vocabulary",
+    "filename": "vocab_a30e10a32c5c.wav"
+  },
+  "b892eb120298": {
+    "arabic": "إلتهاب رئوي",
+    "hebrew": "דלקת ריאות",
+    "type": "vocabulary",
+    "filename": "vocab_b892eb120298.wav"
+  },
+  "2a6408ad33cd": {
+    "arabic": "إلتهاب قصبات",
+    "hebrew": "ברונכיט",
+    "type": "vocabulary",
+    "filename": "vocab_2a6408ad33cd.wav"
+  },
+  "6e6d63154aad": {
+    "arabic": "إلتهاب أذن",
+    "hebrew": "דלקת אוזניים",
+    "type": "vocabulary",
+    "filename": "vocab_6e6d63154aad.wav"
+  },
+  "06cdc1196f02": {
+    "arabic": "إلتهاب عين",
+    "hebrew": "דלקת עיניים",
+    "type": "vocabulary",
+    "filename": "vocab_06cdc1196f02.wav"
+  },
+  "fce6d6b37eb3": {
+    "arabic": "إلتهاب بول",
+    "hebrew": "דלקת שתן",
+    "type": "vocabulary",
+    "filename": "vocab_fce6d6b37eb3.wav"
+  },
+  "70fa8a985796": {
+    "arabic": "قرحة معدة",
+    "hebrew": "כיב קיבה",
+    "type": "vocabulary",
+    "filename": "vocab_70fa8a985796.wav"
+  },
+  "c3b8e91a655c": {
+    "arabic": "يرقان / صفار",
+    "hebrew": "צהבת",
+    "type": "vocabulary",
+    "filename": "vocab_c3b8e91a655c.wav"
+  },
+  "541007d34ddc": {
+    "arabic": "صرع",
+    "hebrew": "אפילפסיה",
+    "type": "vocabulary",
+    "filename": "vocab_541007d34ddc.wav"
+  },
+  "9f2f5c9e5297": {
+    "arabic": "شلل",
+    "hebrew": "שיתוק",
+    "type": "vocabulary",
+    "filename": "vocab_9f2f5c9e5297.wav"
+  },
+  "eaf25f62fb44": {
+    "arabic": "عمى",
+    "hebrew": "עיוורון",
+    "type": "vocabulary",
+    "filename": "vocab_eaf25f62fb44.wav"
+  },
+  "8e0324b20882": {
+    "arabic": "صمم",
+    "hebrew": "חירשות",
+    "type": "vocabulary",
+    "filename": "vocab_8e0324b20882.wav"
+  },
+  "de5ebd133f32": {
+    "arabic": "بكم",
+    "hebrew": "אילמות",
+    "type": "vocabulary",
+    "filename": "vocab_de5ebd133f32.wav"
+  },
+  "79d1e33a62a6": {
+    "arabic": "إنتفاخ / ورم",
+    "hebrew": "נפיחות",
+    "type": "vocabulary",
+    "filename": "vocab_79d1e33a62a6.wav"
+  },
+  "e506b5e13876": {
+    "arabic": "جرح",
+    "hebrew": "פצע",
+    "type": "vocabulary",
+    "filename": "vocab_e506b5e13876.wav"
+  },
+  "3b3debf3ffd5": {
+    "arabic": "قطع",
+    "hebrew": "חתך",
+    "type": "vocabulary",
+    "filename": "vocab_3b3debf3ffd5.wav"
+  },
+  "7e151cc9c74d": {
+    "arabic": "خدش",
+    "hebrew": "שריטה",
+    "type": "vocabulary",
+    "filename": "vocab_7e151cc9c74d.wav"
+  },
+  "ecaa188bf580": {
+    "arabic": "لوي / التواء",
+    "hebrew": "נקע",
+    "type": "vocabulary",
+    "filename": "vocab_ecaa188bf580.wav"
+  },
+  "f15e198a0fff": {
+    "arabic": "شخير",
+    "hebrew": "נחירות",
+    "type": "vocabulary",
+    "filename": "vocab_f15e198a0fff.wav"
+  },
+  "7f685a6b52b3": {
+    "arabic": "إرهاق / تعب",
+    "hebrew": "עייפות",
+    "type": "vocabulary",
+    "filename": "vocab_7f685a6b52b3.wav"
+  },
+  "3e4607af1f1f": {
+    "arabic": "ضعف",
+    "hebrew": "חולשה",
+    "type": "vocabulary",
+    "filename": "vocab_3e4607af1f1f.wav"
+  },
+  "8ea0574badb4": {
+    "arabic": "إغماء",
+    "hebrew": "התעלפות",
+    "type": "vocabulary",
+    "filename": "vocab_8ea0574badb4.wav"
+  },
+  "fa7add2d62df": {
+    "arabic": "غيبوبة",
+    "hebrew": "תרדמת",
+    "type": "vocabulary",
+    "filename": "vocab_fa7add2d62df.wav"
+  },
+  "92cf58f5eae7": {
+    "arabic": "تشنج",
+    "hebrew": "עווית",
+    "type": "vocabulary",
+    "filename": "vocab_92cf58f5eae7.wav"
+  },
+  "c5d730be7e00": {
+    "arabic": "رجفة",
+    "hebrew": "רעד",
+    "type": "vocabulary",
+    "filename": "vocab_c5d730be7e00.wav"
+  },
+  "e23b06b0b651": {
+    "arabic": "نبض",
+    "hebrew": "דופק",
+    "type": "vocabulary",
+    "filename": "vocab_e23b06b0b651.wav"
+  },
+  "99e0ce6fbc97": {
+    "arabic": "ضغط",
+    "hebrew": "לחץ",
+    "type": "vocabulary",
+    "filename": "vocab_99e0ce6fbc97.wav"
+  },
+  "312d042b1f04": {
+    "arabic": "حمل",
+    "hebrew": "הריון",
+    "type": "vocabulary",
+    "filename": "vocab_312d042b1f04.wav"
+  },
+  "f96d98820550": {
+    "arabic": "ولادة",
+    "hebrew": "לידה",
+    "type": "vocabulary",
+    "filename": "vocab_f96d98820550.wav"
+  },
+  "847a56b7f73f": {
+    "arabic": "إجهاض",
+    "hebrew": "הפלה",
+    "type": "vocabulary",
+    "filename": "vocab_847a56b7f73f.wav"
+  },
+  "637d5dd1f16a": {
+    "arabic": "دورة",
+    "hebrew": "מחזור",
+    "type": "vocabulary",
+    "filename": "vocab_637d5dd1f16a.wav"
+  },
+  "e4fa8e640e54": {
+    "arabic": "سن اليأس",
+    "hebrew": "גיל המעבר",
+    "type": "vocabulary",
+    "filename": "vocab_e4fa8e640e54.wav"
+  },
+  "893970420bee": {
+    "arabic": "فيروس",
+    "hebrew": "וירוס",
+    "type": "vocabulary",
+    "filename": "vocab_893970420bee.wav"
+  },
+  "c1409ff1833d": {
+    "arabic": "جرثومة / بكتيريا",
+    "hebrew": "חיידק",
+    "type": "vocabulary",
+    "filename": "vocab_c1409ff1833d.wav"
+  },
+  "2cb8aa54d497": {
+    "arabic": "طفيلي",
+    "hebrew": "טפיל",
+    "type": "vocabulary",
+    "filename": "vocab_2cb8aa54d497.wav"
+  },
+  "13433524db3c": {
+    "arabic": "فطر",
+    "hebrew": "פטרייה",
+    "type": "vocabulary",
+    "filename": "vocab_13433524db3c.wav"
+  },
+  "83d7008aad86": {
+    "arabic": "تطعيم / لقاح",
+    "hebrew": "חיסון",
+    "type": "vocabulary",
+    "filename": "vocab_83d7008aad86.wav"
+  },
+  "7c0431970ca2": {
+    "arabic": "وقاية",
+    "hebrew": "מניעה",
+    "type": "vocabulary",
+    "filename": "vocab_7c0431970ca2.wav"
+  },
+  "92edb6eb244c": {
+    "arabic": "عدوى",
+    "hebrew": "הדבקה",
+    "type": "vocabulary",
+    "filename": "vocab_92edb6eb244c.wav"
+  },
+  "6aeb43fb6351": {
+    "arabic": "تدهور",
+    "hebrew": "הידרדרות",
+    "type": "vocabulary",
+    "filename": "vocab_6aeb43fb6351.wav"
+  },
+  "d1644d0f4922": {
+    "arabic": "تعافي / شفاء",
+    "hebrew": "החלמה",
+    "type": "vocabulary",
+    "filename": "vocab_d1644d0f4922.wav"
+  },
+  "8f8360502205": {
+    "arabic": "رجعة",
+    "hebrew": "חזרה/הישנות",
+    "type": "vocabulary",
+    "filename": "vocab_8f8360502205.wav"
+  },
+  "e04df2e9e8d4": {
+    "arabic": "مضاعفة",
+    "hebrew": "סיבוך",
+    "type": "vocabulary",
+    "filename": "vocab_e04df2e9e8d4.wav"
+  },
+  "5cf7b026dae7": {
+    "arabic": "أعراض جانبية",
+    "hebrew": "תופעת לוואי",
+    "type": "vocabulary",
+    "filename": "vocab_5cf7b026dae7.wav"
+  },
+  "df4c7c1fdf8e": {
+    "arabic": "جرعة زائدة",
+    "hebrew": "מנת יתר",
+    "type": "vocabulary",
+    "filename": "vocab_df4c7c1fdf8e.wav"
+  },
+  "e34deefb97e0": {
+    "arabic": "تسمم",
+    "hebrew": "הרעלה",
+    "type": "vocabulary",
+    "filename": "vocab_e34deefb97e0.wav"
+  },
+  "e217a2fe8995": {
+    "arabic": "نزيف",
+    "hebrew": "דימום",
+    "type": "vocabulary",
+    "filename": "vocab_e217a2fe8995.wav"
+  },
+  "3e5e3fdfbb25": {
+    "arabic": "تخثر",
+    "hebrew": "קרישה",
+    "type": "vocabulary",
+    "filename": "vocab_3e5e3fdfbb25.wav"
+  },
+  "086f08b20ce6": {
+    "arabic": "قرحة",
+    "hebrew": "כיב",
+    "type": "vocabulary",
+    "filename": "vocab_086f08b20ce6.wav"
+  },
+  "2d1aa2cfc74e": {
+    "arabic": "ورم / كُتْلَة",
+    "hebrew": "גידול",
+    "type": "vocabulary",
+    "filename": "vocab_2d1aa2cfc74e.wav"
+  },
+  "33c0a75e838c": {
+    "arabic": "ورم حميد",
+    "hebrew": "גידול שפיר",
+    "type": "vocabulary",
+    "filename": "vocab_33c0a75e838c.wav"
+  },
+  "a04845cdbac9": {
+    "arabic": "ورم خبيث",
+    "hebrew": "גידול ממאיר",
+    "type": "vocabulary",
+    "filename": "vocab_a04845cdbac9.wav"
+  },
+  "38f07ba7265c": {
+    "arabic": "إنتشار",
+    "hebrew": "גרורות",
+    "type": "vocabulary",
+    "filename": "vocab_38f07ba7265c.wav"
+  },
+  "8ec99852780c": {
+    "arabic": "علاج كيماوي",
+    "hebrew": "כימותרפיה",
+    "type": "vocabulary",
+    "filename": "vocab_8ec99852780c.wav"
+  },
+  "fe716fca8770": {
+    "arabic": "علاج بالأشعة",
+    "hebrew": "הקרנות",
+    "type": "vocabulary",
+    "filename": "vocab_fe716fca8770.wav"
+  },
+  "d1badc532a49": {
+    "arabic": "زراعة",
+    "hebrew": "השתלה",
+    "type": "vocabulary",
+    "filename": "vocab_d1badc532a49.wav"
+  },
+  "b7dee9747a94": {
+    "arabic": "رفض",
+    "hebrew": "דחייה",
+    "type": "vocabulary",
+    "filename": "vocab_b7dee9747a94.wav"
+  },
+  "47299d92dab0": {
+    "arabic": "عيب في القلب",
+    "hebrew": "מום לב",
+    "type": "vocabulary",
+    "filename": "vocab_47299d92dab0.wav"
+  },
+  "3f5a6d9e9cc0": {
+    "arabic": "إضطراب نبض",
+    "hebrew": "הפרעת קצב",
+    "type": "vocabulary",
+    "filename": "vocab_3f5a6d9e9cc0.wav"
+  },
+  "cbf432aed1e1": {
+    "arabic": "قصور",
+    "hebrew": "אי ספיקה",
+    "type": "vocabulary",
+    "filename": "vocab_cbf432aed1e1.wav"
+  },
+  "bd304f4ba5cf": {
+    "arabic": "إنسداد",
+    "hebrew": "חסימה",
+    "type": "vocabulary",
+    "filename": "vocab_bd304f4ba5cf.wav"
+  },
+  "9bd4d1ee4302": {
+    "arabic": "تضيق",
+    "hebrew": "היצרות",
+    "type": "vocabulary",
+    "filename": "vocab_9bd4d1ee4302.wav"
+  },
+  "994e4c38bc96": {
+    "arabic": "إلتهاب مفاصل",
+    "hebrew": "דלקת מפרקים",
+    "type": "vocabulary",
+    "filename": "vocab_994e4c38bc96.wav"
+  },
+  "1c2013a835dd": {
+    "arabic": "إلتهاب سحايا",
+    "hebrew": "דלקת קרום המוח",
+    "type": "vocabulary",
+    "filename": "vocab_1c2013a835dd.wav"
+  },
+  "2d0220e53099": {
+    "arabic": "سل",
+    "hebrew": "שחפת",
+    "type": "vocabulary",
+    "filename": "vocab_2d0220e53099.wav"
+  },
+  "d9c50b43e1e5": {
+    "arabic": "ملاريا",
+    "hebrew": "מלריה",
+    "type": "vocabulary",
+    "filename": "vocab_d9c50b43e1e5.wav"
+  },
+  "c7d5fc0d4323": {
+    "arabic": "إلتهاب كبد",
+    "hebrew": "הפטיטיס",
+    "type": "vocabulary",
+    "filename": "vocab_c7d5fc0d4323.wav"
+  },
+  "b907116c8e58": {
+    "arabic": "إيدز",
+    "hebrew": "איידס",
+    "type": "vocabulary",
+    "filename": "vocab_b907116c8e58.wav"
+  },
+  "9892f81e0f38": {
+    "arabic": "جدري",
+    "hebrew": "אבעבועות",
+    "type": "vocabulary",
+    "filename": "vocab_9892f81e0f38.wav"
+  },
+  "48f0943c22b8": {
+    "arabic": "حصبة",
+    "hebrew": "חצבת",
+    "type": "vocabulary",
+    "filename": "vocab_48f0943c22b8.wav"
+  },
+  "573e7d2ed39a": {
+    "arabic": "حصبة ألمانية",
+    "hebrew": "אדמת",
+    "type": "vocabulary",
+    "filename": "vocab_573e7d2ed39a.wav"
+  },
+  "03f8010a3010": {
+    "arabic": "سعال ديكي",
+    "hebrew": "שעלת",
+    "type": "vocabulary",
+    "filename": "vocab_03f8010a3010.wav"
+  },
+  "771823793eaa": {
+    "arabic": "كزاز",
+    "hebrew": "צפדת",
+    "type": "vocabulary",
+    "filename": "vocab_771823793eaa.wav"
+  },
+  "e86f3f12431b": {
+    "arabic": "زهري",
+    "hebrew": "עגבת",
+    "type": "vocabulary",
+    "filename": "vocab_e86f3f12431b.wav"
+  },
+  "e8f01d3a727f": {
+    "arabic": "نغزة",
+    "hebrew": "דקירה/דקירות",
+    "type": "vocabulary",
+    "filename": "vocab_e8f01d3a727f.wav"
+  },
+  "915b187a1677": {
+    "arabic": "مغص",
+    "hebrew": "התכווצויות בטן",
+    "type": "vocabulary",
+    "filename": "vocab_915b187a1677.wav"
+  },
+  "5dc15564746d": {
+    "arabic": "حرقة",
+    "hebrew": "צריבה/שריפה",
+    "type": "vocabulary",
+    "filename": "vocab_5dc15564746d.wav"
+  },
+  "3f8ddf0588f9": {
+    "arabic": "حماوة",
+    "hebrew": "חמאווה (חום מקומי)",
+    "type": "vocabulary",
+    "filename": "vocab_3f8ddf0588f9.wav"
+  },
+  "f9c5613100b5": {
+    "arabic": "نار",
+    "hebrew": "נאר (אש)",
+    "type": "vocabulary",
+    "filename": "vocab_f9c5613100b5.wav"
+  },
+  "e3e98af20e06": {
+    "arabic": "ثقل",
+    "hebrew": "כובד",
+    "type": "vocabulary",
+    "filename": "vocab_e3e98af20e06.wav"
+  },
+  "01f3fe57e2cf": {
+    "arabic": "ضغطة",
+    "hebrew": "לחיצה",
+    "type": "vocabulary",
+    "filename": "vocab_01f3fe57e2cf.wav"
+  },
+  "20f007632cb9": {
+    "arabic": "رجفة / بردية",
+    "hebrew": "צמרמורת",
+    "type": "vocabulary",
+    "filename": "vocab_20f007632cb9.wav"
+  },
+  "12bd08d621a5": {
+    "arabic": "تنميل",
+    "hebrew": "הרגשת נמלים",
+    "type": "vocabulary",
+    "filename": "vocab_12bd08d621a5.wav"
+  },
+  "84a59551a9ad": {
+    "arabic": "صخرة على صدري",
+    "hebrew": "סלע על החזה",
+    "type": "vocabulary",
+    "filename": "vocab_84a59551a9ad.wav"
+  },
+  "4fe18071c3d9": {
+    "arabic": "مستشفى",
+    "hebrew": "בית חולים",
+    "type": "vocabulary",
+    "filename": "vocab_4fe18071c3d9.wav"
+  },
+  "9a1df327575f": {
+    "arabic": "عيادة",
+    "hebrew": "מרפאה",
+    "type": "vocabulary",
+    "filename": "vocab_9a1df327575f.wav"
+  },
+  "7e5d2043b4df": {
+    "arabic": "طوارئ",
+    "hebrew": "מיון",
+    "type": "vocabulary",
+    "filename": "vocab_7e5d2043b4df.wav"
+  },
+  "be387fbe36b7": {
+    "arabic": "عملية",
+    "hebrew": "ניתוח",
+    "type": "vocabulary",
+    "filename": "vocab_be387fbe36b7.wav"
+  },
+  "f9a89b615e18": {
+    "arabic": "إبرة",
+    "hebrew": "זריקה",
+    "type": "vocabulary",
+    "filename": "vocab_f9a89b615e18.wav"
+  },
+  "5b6b5a4827d3": {
+    "arabic": "دُخُول",
+    "hebrew": "אשפוז",
+    "type": "vocabulary",
+    "filename": "vocab_5b6b5a4827d3.wav"
+  },
+  "b4691cab4fb6": {
+    "arabic": "مَوْعِد / دوْر",
+    "hebrew": "תור",
+    "type": "vocabulary",
+    "filename": "vocab_b4691cab4fb6.wav"
+  },
+  "6cf06257b1a1": {
+    "arabic": "مُعَالِج",
+    "hebrew": "מטפל",
+    "type": "vocabulary",
+    "filename": "vocab_6cf06257b1a1.wav"
+  },
+  "a4c168d08d15": {
+    "arabic": "مريض / مُعَالَج",
+    "hebrew": "מטופל",
+    "type": "vocabulary",
+    "filename": "vocab_a4c168d08d15.wav"
+  },
+  "425af5ab5707": {
+    "arabic": "صِحَّة",
+    "hebrew": "בריאות",
+    "type": "vocabulary",
+    "filename": "vocab_425af5ab5707.wav"
+  },
+  "421b0ffd8f8a": {
+    "arabic": "عَمَلِيَّة التَّشْخِيص",
+    "hebrew": "אבחון (תהליך)",
+    "type": "vocabulary",
+    "filename": "vocab_421b0ffd8f8a.wav"
+  },
+  "e7951fa5dd5a": {
+    "arabic": "دواء",
+    "hebrew": "תרופה",
+    "type": "vocabulary",
+    "filename": "vocab_e7951fa5dd5a.wav"
+  },
+  "1fa1064333ce": {
+    "arabic": "حبة",
+    "hebrew": "כדור",
+    "type": "vocabulary",
+    "filename": "vocab_1fa1064333ce.wav"
+  },
+  "787eb658158c": {
+    "arabic": "صورة / أشعة",
+    "hebrew": "צילום (רנטגן)",
+    "type": "vocabulary",
+    "filename": "vocab_787eb658158c.wav"
+  },
+  "1b8d5c0211ea": {
+    "arabic": "فحص دم",
+    "hebrew": "בדיקת דם",
+    "type": "vocabulary",
+    "filename": "vocab_1b8d5c0211ea.wav"
+  },
+  "f1677a218701": {
+    "arabic": "وصفة / روشيتة",
+    "hebrew": "מרשם",
+    "type": "vocabulary",
+    "filename": "vocab_f1677a218701.wav"
+  },
+  "26fe39bedfdf": {
+    "arabic": "موعد / دور",
+    "hebrew": "תור/מועד",
+    "type": "vocabulary",
+    "filename": "vocab_26fe39bedfdf.wav"
+  },
+  "2f6c0d1e209b": {
+    "arabic": "تشخيص",
+    "hebrew": "אבחנה",
+    "type": "vocabulary",
+    "filename": "vocab_2f6c0d1e209b.wav"
+  },
+  "9dffe8e09500": {
+    "arabic": "علاج",
+    "hebrew": "טיפול",
+    "type": "vocabulary",
+    "filename": "vocab_9dffe8e09500.wav"
+  },
+  "e304afcba42e": {
+    "arabic": "إسعاف",
+    "hebrew": "אמבולנס",
+    "type": "vocabulary",
+    "filename": "vocab_e304afcba42e.wav"
+  },
+  "eede63bf6b6b": {
+    "arabic": "ممرض / ممرضة",
+    "hebrew": "אח/אחות",
+    "type": "vocabulary",
+    "filename": "vocab_eede63bf6b6b.wav"
+  },
+  "b814aa62ce14": {
+    "arabic": "دكتور / طبيب",
+    "hebrew": "רופא",
+    "type": "vocabulary",
+    "filename": "vocab_b814aa62ce14.wav"
+  },
+  "999ab8a7dd95": {
+    "arabic": "قسم",
+    "hebrew": "מחלקה",
+    "type": "vocabulary",
+    "filename": "vocab_999ab8a7dd95.wav"
+  },
+  "f9be6c8cd1ed": {
+    "arabic": "إستقبال",
+    "hebrew": "קבלה",
+    "type": "vocabulary",
+    "filename": "vocab_f9be6c8cd1ed.wav"
+  },
+  "77166a37eaac": {
+    "arabic": "تأمين",
+    "hebrew": "ביטוח",
+    "type": "vocabulary",
+    "filename": "vocab_77166a37eaac.wav"
+  },
+  "554cf0f85386": {
+    "arabic": "تحويلة",
+    "hebrew": "הפניה",
+    "type": "vocabulary",
+    "filename": "vocab_554cf0f85386.wav"
+  },
+  "3847ecfef699": {
+    "arabic": "مغذي",
+    "hebrew": "עירוי",
+    "type": "vocabulary",
+    "filename": "vocab_3847ecfef699.wav"
+  },
+  "00c33bf454dc": {
+    "arabic": "ضمادة / رباط",
+    "hebrew": "תחבושת",
+    "type": "vocabulary",
+    "filename": "vocab_00c33bf454dc.wav"
+  },
+  "79adfe689dbe": {
+    "arabic": "جبس",
+    "hebrew": "גבס",
+    "type": "vocabulary",
+    "filename": "vocab_79adfe689dbe.wav"
+  },
+  "24c99d7935bb": {
+    "arabic": "غرز / قطب",
+    "hebrew": "תפרים",
+    "type": "vocabulary",
+    "filename": "vocab_24c99d7935bb.wav"
+  },
+  "2b76d58b19e6": {
+    "arabic": "سماعة",
+    "hebrew": "סטטוסקופ",
+    "type": "vocabulary",
+    "filename": "vocab_2b76d58b19e6.wav"
+  },
+  "dbf586ed04c9": {
+    "arabic": "ميزان حرارة",
+    "hebrew": "מדחום",
+    "type": "vocabulary",
+    "filename": "vocab_dbf586ed04c9.wav"
+  },
+  "0e127ecc1089": {
+    "arabic": "جهاز ضغط",
+    "hebrew": "מד לחץ דם",
+    "type": "vocabulary",
+    "filename": "vocab_0e127ecc1089.wav"
+  },
+  "96424ecab0e9": {
+    "arabic": "صورة صوتية / سونار",
+    "hebrew": "אולטרסאונד",
+    "type": "vocabulary",
+    "filename": "vocab_96424ecab0e9.wav"
+  },
+  "3ee19f77aced": {
+    "arabic": "طبقي",
+    "hebrew": "CT",
+    "type": "vocabulary",
+    "filename": "vocab_3ee19f77aced.wav"
+  },
+  "c1bdf40fcadf": {
+    "arabic": "رنين مغناطيسي",
+    "hebrew": "MRI",
+    "type": "vocabulary",
+    "filename": "vocab_c1bdf40fcadf.wav"
+  },
+  "8b69e704d336": {
+    "arabic": "تخطيط قلب",
+    "hebrew": "אק״ג",
+    "type": "vocabulary",
+    "filename": "vocab_8b69e704d336.wav"
+  },
+  "4197c408c37c": {
+    "arabic": "كيس دم",
+    "hebrew": "שקית דם",
+    "type": "vocabulary",
+    "filename": "vocab_4197c408c37c.wav"
+  },
+  "f60735ab09ad": {
+    "arabic": "قسطرة",
+    "hebrew": "צנתר",
+    "type": "vocabulary",
+    "filename": "vocab_f60735ab09ad.wav"
+  },
+  "b118be6989bd": {
+    "arabic": "بخاخ / جلسة تنفس",
+    "hebrew": "אינהלציה",
+    "type": "vocabulary",
+    "filename": "vocab_b118be6989bd.wav"
+  },
+  "8f8e84e84b2d": {
+    "arabic": "بخاخ",
+    "hebrew": "משאף",
+    "type": "vocabulary",
+    "filename": "vocab_8f8e84e84b2d.wav"
+  },
+  "00dd662ff34d": {
+    "arabic": "أوكسجين",
+    "hebrew": "חמצן",
+    "type": "vocabulary",
+    "filename": "vocab_00dd662ff34d.wav"
+  },
+  "48f2789ba692": {
+    "arabic": "تخدير / بنج",
+    "hebrew": "הרדמה",
+    "type": "vocabulary",
+    "filename": "vocab_48f2789ba692.wav"
+  },
+  "3ec500e71376": {
+    "arabic": "تخدير موضعي",
+    "hebrew": "הרדמה מקומית",
+    "type": "vocabulary",
+    "filename": "vocab_3ec500e71376.wav"
+  },
+  "11c4e249554c": {
+    "arabic": "تخدير عام",
+    "hebrew": "הרדמה כללית",
+    "type": "vocabulary",
+    "filename": "vocab_11c4e249554c.wav"
+  },
+  "c7d4dcfeef98": {
+    "arabic": "كرسي متحرك",
+    "hebrew": "כסא גלגלים",
+    "type": "vocabulary",
+    "filename": "vocab_c7d4dcfeef98.wav"
+  },
+  "452a5c702e7d": {
+    "arabic": "عكازات",
+    "hebrew": "קביים",
+    "type": "vocabulary",
+    "filename": "vocab_452a5c702e7d.wav"
+  },
+  "7f17b1f43dd3": {
+    "arabic": "نقالة / سرير",
+    "hebrew": "אלונקה",
+    "type": "vocabulary",
+    "filename": "vocab_7f17b1f43dd3.wav"
+  },
+  "58a6793beaa2": {
+    "arabic": "تخت / سرير",
+    "hebrew": "מיטה",
+    "type": "vocabulary",
+    "filename": "vocab_58a6793beaa2.wav"
+  },
+  "2082960cded7": {
+    "arabic": "مخدة",
+    "hebrew": "כרית",
+    "type": "vocabulary",
+    "filename": "vocab_2082960cded7.wav"
+  },
+  "ab46f03715b8": {
+    "arabic": "حرام / بطانية",
+    "hebrew": "שמיכה",
+    "type": "vocabulary",
+    "filename": "vocab_ab46f03715b8.wav"
+  },
+  "3320f58b7752": {
+    "arabic": "شرشف",
+    "hebrew": "סדין",
+    "type": "vocabulary",
+    "filename": "vocab_3320f58b7752.wav"
+  },
+  "75a65c2aeb07": {
+    "arabic": "غرفة عمليات",
+    "hebrew": "חדר ניתוח",
+    "type": "vocabulary",
+    "filename": "vocab_75a65c2aeb07.wav"
+  },
+  "c56b044809e8": {
+    "arabic": "عناية مكثفة",
+    "hebrew": "טיפול נמרץ",
+    "type": "vocabulary",
+    "filename": "vocab_c56b044809e8.wav"
+  },
+  "72f8b65ce0cc": {
+    "arabic": "غرفة ولادة",
+    "hebrew": "חדר לידה",
+    "type": "vocabulary",
+    "filename": "vocab_72f8b65ce0cc.wav"
+  },
+  "e24bd7ee87d4": {
+    "arabic": "علاج طبيعي",
+    "hebrew": "פיזיותרפיה",
+    "type": "vocabulary",
+    "filename": "vocab_e24bd7ee87d4.wav"
+  },
+  "5ebf42c79be6": {
+    "arabic": "تأهيل",
+    "hebrew": "שיקום",
+    "type": "vocabulary",
+    "filename": "vocab_5ebf42c79be6.wav"
+  },
+  "3e8f15705adb": {
+    "arabic": "المرض العطال",
+    "hebrew": "המחלה הארורה (סרטן)",
+    "type": "vocabulary",
+    "filename": "vocab_3e8f15705adb.wav"
+  },
+  "823e24ac4f0b": {
+    "arabic": "عملية تنظيف",
+    "hebrew": "ניקוי עורקים (צנתור)",
+    "type": "vocabulary",
+    "filename": "vocab_823e24ac4f0b.wav"
+  },
+  "aa5b8825bba0": {
+    "arabic": "موعد",
+    "hebrew": "פגישה / תור",
+    "type": "vocabulary",
+    "filename": "vocab_aa5b8825bba0.wav"
+  },
+  "a616ab8ad9ca": {
+    "arabic": "تقييم",
+    "hebrew": "הערכה",
+    "type": "vocabulary",
+    "filename": "vocab_a616ab8ad9ca.wav"
+  },
+  "ad16d7e38009": {
+    "arabic": "سكرتير / كاتب",
+    "hebrew": "מזכיר",
+    "type": "vocabulary",
+    "filename": "vocab_ad16d7e38009.wav"
+  },
+  "769b6712ad6a": {
+    "arabic": "سكرتيرة / كاتبة",
+    "hebrew": "מזכירה",
+    "type": "vocabulary",
+    "filename": "vocab_769b6712ad6a.wav"
+  },
+  "7be483cb1061": {
+    "arabic": "سكرتاريا / مكتب",
+    "hebrew": "מזכירות",
+    "type": "vocabulary",
+    "filename": "vocab_7be483cb1061.wav"
+  },
+  "b265605caa8a": {
+    "arabic": "ميرمية",
+    "hebrew": "מרווה (מירמיה)",
+    "type": "vocabulary",
+    "filename": "vocab_b265605caa8a.wav"
+  },
+  "2045c48fc0b5": {
+    "arabic": "جعدة",
+    "hebrew": "געדה",
+    "type": "vocabulary",
+    "filename": "vocab_2045c48fc0b5.wav"
+  },
+  "c37d508de54d": {
+    "arabic": "حلبة",
+    "hebrew": "חילבה",
+    "type": "vocabulary",
+    "filename": "vocab_c37d508de54d.wav"
+  },
+  "d1a1036f16e4": {
+    "arabic": "حبة البركة",
+    "hebrew": "קצח (חבת אל-ברכה)",
+    "type": "vocabulary",
+    "filename": "vocab_d1a1036f16e4.wav"
+  },
+  "e32140190a10": {
+    "arabic": "زنجبيل",
+    "hebrew": "זנג'ביל (ג'ינג'ר)",
+    "type": "vocabulary",
+    "filename": "vocab_e32140190a10.wav"
+  },
+  "57a7c013a5fc": {
+    "arabic": "إكتئاب",
+    "hebrew": "דיכאון",
+    "type": "vocabulary",
+    "filename": "vocab_57a7c013a5fc.wav"
+  },
+  "7e014df1c27a": {
+    "arabic": "قلق / توتر",
+    "hebrew": "חרדה",
+    "type": "vocabulary",
+    "filename": "vocab_7e014df1c27a.wav"
+  },
+  "22e137b04dd7": {
+    "arabic": "صدمة",
+    "hebrew": "טראומה",
+    "type": "vocabulary",
+    "filename": "vocab_22e137b04dd7.wav"
+  },
+  "03a01ba49dd8": {
+    "arabic": "إضطراب ما بعد الصدمة",
+    "hebrew": "פוסט-טראומה",
+    "type": "vocabulary",
+    "filename": "vocab_03a01ba49dd8.wav"
+  },
+  "24f291dc6949": {
+    "arabic": "نوبة هلع",
+    "hebrew": "התקף חרדה",
+    "type": "vocabulary",
+    "filename": "vocab_24f291dc6949.wav"
+  },
+  "b09d9ccf9cf2": {
+    "arabic": "بلادة",
+    "hebrew": "קהות חושים",
+    "type": "vocabulary",
+    "filename": "vocab_b09d9ccf9cf2.wav"
+  },
+  "502c17f04d28": {
+    "arabic": "يأس",
+    "hebrew": "ייאוש",
+    "type": "vocabulary",
+    "filename": "vocab_502c17f04d28.wav"
+  },
+  "f7d1706245d9": {
+    "arabic": "روحي بتطلع",
+    "hebrew": "נשמתי יוצאת",
+    "type": "vocabulary",
+    "filename": "vocab_f7d1706245d9.wav"
+  },
+  "d7ee5d234cda": {
+    "arabic": "عايش على أعصابي",
+    "hebrew": "חי על עצבים",
+    "type": "vocabulary",
+    "filename": "vocab_d7ee5d234cda.wav"
+  },
+  "91c3d58c1448": {
+    "arabic": "صمود",
+    "hebrew": "חוסן",
+    "type": "vocabulary",
+    "filename": "vocab_91c3d58c1448.wav"
+  },
+  "b53d9db93628": {
+    "arabic": "تعايش",
+    "hebrew": "התמודדות",
+    "type": "vocabulary",
+    "filename": "vocab_b53d9db93628.wav"
+  },
+  "a43b9b536ed4": {
+    "arabic": "أرق",
+    "hebrew": "נדודי שינה",
+    "type": "vocabulary",
+    "filename": "vocab_a43b9b536ed4.wav"
+  },
+  "0f77cf1b5095": {
+    "arabic": "هلوس",
+    "hebrew": "הזיות",
+    "type": "vocabulary",
+    "filename": "vocab_0f77cf1b5095.wav"
+  },
+  "d3cf27a569ec": {
+    "arabic": "أخصائي نفساني",
+    "hebrew": "פסיכולוג",
+    "type": "vocabulary",
+    "filename": "vocab_d3cf27a569ec.wav"
+  },
+  "9a7a501df0ad": {
+    "arabic": "مجنون",
+    "hebrew": "משוגע",
+    "type": "vocabulary",
+    "filename": "vocab_9a7a501df0ad.wav"
+  },
+  "09f724578b62": {
+    "arabic": "معصب",
+    "hebrew": "עצבני",
+    "type": "vocabulary",
+    "filename": "vocab_09f724578b62.wav"
+  },
+  "60ef1e53a445": {
+    "arabic": "خوف",
+    "hebrew": "פחד",
+    "type": "vocabulary",
+    "filename": "vocab_60ef1e53a445.wav"
+  },
+  "29fd36de55b6": {
+    "arabic": "ثقل ع الصدري",
+    "hebrew": "כובד על החזה",
+    "type": "vocabulary",
+    "filename": "vocab_29fd36de55b6.wav"
+  },
+  "de7a7786fe76": {
+    "arabic": "نفس",
+    "hebrew": "נפש",
+    "type": "vocabulary",
+    "filename": "vocab_de7a7786fe76.wav"
+  },
+  "3d5eb646e560": {
+    "arabic": "روح",
+    "hebrew": "רוח",
+    "type": "vocabulary",
+    "filename": "vocab_3d5eb646e560.wav"
+  },
+  "9d9da55c2bb5": {
+    "arabic": "نفسية / مزاج",
+    "hebrew": "מצב רוח",
+    "type": "vocabulary",
+    "filename": "vocab_9d9da55c2bb5.wav"
+  },
+  "524a23a666c2": {
+    "arabic": "أعصاب",
+    "hebrew": "עצבים",
+    "type": "vocabulary",
+    "filename": "vocab_524a23a666c2.wav"
+  },
+  "d9e2ee088d8e": {
+    "arabic": "نوم",
+    "hebrew": "שינה",
+    "type": "vocabulary",
+    "filename": "vocab_d9e2ee088d8e.wav"
+  },
+  "5a0386857b7d": {
+    "arabic": "حلم",
+    "hebrew": "חלום",
+    "type": "vocabulary",
+    "filename": "vocab_5a0386857b7d.wav"
+  },
+  "0258f2458567": {
+    "arabic": "كابوس",
+    "hebrew": "סיוט",
+    "type": "vocabulary",
+    "filename": "vocab_0258f2458567.wav"
+  },
+  "9f7ff5664f38": {
+    "arabic": "بكي",
+    "hebrew": "בכי",
+    "type": "vocabulary",
+    "filename": "vocab_9f7ff5664f38.wav"
+  },
+  "68d720eafa4f": {
+    "arabic": "دموع",
+    "hebrew": "דמעות",
+    "type": "vocabulary",
+    "filename": "vocab_68d720eafa4f.wav"
+  },
+  "76a1865a521c": {
+    "arabic": "ضحك",
+    "hebrew": "צחוק",
+    "type": "vocabulary",
+    "filename": "vocab_76a1865a521c.wav"
+  },
+  "800678f777e0": {
+    "arabic": "فرح",
+    "hebrew": "שמחה",
+    "type": "vocabulary",
+    "filename": "vocab_800678f777e0.wav"
+  },
+  "b11e223b3f17": {
+    "arabic": "حزن",
+    "hebrew": "עצב",
+    "type": "vocabulary",
+    "filename": "vocab_b11e223b3f17.wav"
+  },
+  "57dde1a662e2": {
+    "arabic": "غضب",
+    "hebrew": "כעס",
+    "type": "vocabulary",
+    "filename": "vocab_57dde1a662e2.wav"
+  },
+  "cd5b79483c6e": {
+    "arabic": "طبيب نفسي",
+    "hebrew": "פסיכיאטר",
+    "type": "vocabulary",
+    "filename": "vocab_cd5b79483c6e.wav"
+  },
+  "995a4ebfffd5": {
+    "arabic": "علاج نفسي",
+    "hebrew": "טיפול נפשי",
+    "type": "vocabulary",
+    "filename": "vocab_995a4ebfffd5.wav"
+  },
+  "7b31055f3f83": {
+    "arabic": "دعم",
+    "hebrew": "תמיכה",
+    "type": "vocabulary",
+    "filename": "vocab_7b31055f3f83.wav"
+  },
+  "8dc8300473c7": {
+    "arabic": "إصغاء",
+    "hebrew": "הקשבה",
+    "type": "vocabulary",
+    "filename": "vocab_8dc8300473c7.wav"
+  },
+  "62156c8259f5": {
+    "arabic": "حكي / محادثة",
+    "hebrew": "שיחה",
+    "type": "vocabulary",
+    "filename": "vocab_62156c8259f5.wav"
+  },
+  "2b63f27931bd": {
+    "arabic": "تهدئة",
+    "hebrew": "הרגעה",
+    "type": "vocabulary",
+    "filename": "vocab_2b63f27931bd.wav"
+  },
+  "0ce76ac9e1f9": {
+    "arabic": "هادي",
+    "hebrew": "רגוע",
+    "type": "vocabulary",
+    "filename": "vocab_0ce76ac9e1f9.wav"
+  },
+  "78575455c4c2": {
+    "arabic": "منهك",
+    "hebrew": "מותש",
+    "type": "vocabulary",
+    "filename": "vocab_78575455c4c2.wav"
+  },
+  "39a4bb51691a": {
+    "arabic": "مستهلك",
+    "hebrew": "שחוק",
+    "type": "vocabulary",
+    "filename": "vocab_39a4bb51691a.wav"
+  },
+  "29df5d05e5ad": {
+    "arabic": "تعافي",
+    "hebrew": "התאוששות",
+    "type": "vocabulary",
+    "filename": "vocab_29df5d05e5ad.wav"
+  },
+  "e994056605d5": {
+    "arabic": "أمل",
+    "hebrew": "תקווה",
+    "type": "vocabulary",
+    "filename": "vocab_e994056605d5.wav"
+  },
+  "45ad41ce44ee": {
+    "arabic": "إيمان",
+    "hebrew": "אמונה",
+    "type": "vocabulary",
+    "filename": "vocab_45ad41ce44ee.wav"
+  },
+  "9b214fd862d1": {
+    "arabic": "صبر",
+    "hebrew": "סבלנות",
+    "type": "vocabulary",
+    "filename": "vocab_9b214fd862d1.wav"
+  },
+  "da80e7847661": {
+    "arabic": "قوة",
+    "hebrew": "כוח",
+    "type": "vocabulary",
+    "filename": "vocab_da80e7847661.wav"
+  },
+  "1d36118462b9": {
+    "arabic": "شجاعة",
+    "hebrew": "אומץ",
+    "type": "vocabulary",
+    "filename": "vocab_1d36118462b9.wav"
+  },
+  "bb159c02a806": {
+    "arabic": "خواف",
+    "hebrew": "פחדן",
+    "type": "vocabulary",
+    "filename": "vocab_bb159c02a806.wav"
+  },
+  "502d809b5b62": {
+    "arabic": "شجاع",
+    "hebrew": "אמיץ",
+    "type": "vocabulary",
+    "filename": "vocab_502d809b5b62.wav"
+  },
+  "01865ed9e31b": {
+    "arabic": "حساس",
+    "hebrew": "רגיש",
+    "type": "vocabulary",
+    "filename": "vocab_01865ed9e31b.wav"
+  },
+  "17b7ec753a90": {
+    "arabic": "سلوك / تصرف",
+    "hebrew": "התנהגות",
+    "type": "vocabulary",
+    "filename": "vocab_17b7ec753a90.wav"
+  },
+  "f10ec7a3e48d": {
+    "arabic": "أفكار",
+    "hebrew": "מחשבות",
+    "type": "vocabulary",
+    "filename": "vocab_f10ec7a3e48d.wav"
+  },
+  "7f8f1d1942e9": {
+    "arabic": "مشاعر",
+    "hebrew": "רגשות",
+    "type": "vocabulary",
+    "filename": "vocab_7f8f1d1942e9.wav"
+  },
+  "3c80d0835437": {
+    "arabic": "ذاكرة",
+    "hebrew": "זיכרון",
+    "type": "vocabulary",
+    "filename": "vocab_3c80d0835437.wav"
+  },
+  "53ef05203f10": {
+    "arabic": "تركيز",
+    "hebrew": "ריכוז",
+    "type": "vocabulary",
+    "filename": "vocab_53ef05203f10.wav"
+  },
+  "bcce543877b3": {
+    "arabic": "تشويش / بلبلة",
+    "hebrew": "בלבול",
+    "type": "vocabulary",
+    "filename": "vocab_bcce543877b3.wav"
+  },
+  "671cf8fae553": {
+    "arabic": "إضطراب",
+    "hebrew": "הפרעה",
+    "type": "vocabulary",
+    "filename": "vocab_671cf8fae553.wav"
+  },
+  "1d8b03687e33": {
+    "arabic": "نوبة",
+    "hebrew": "התקף",
+    "type": "vocabulary",
+    "filename": "vocab_1d8b03687e33.wav"
+  },
+  "8e6a699653d9": {
+    "arabic": "أزمة",
+    "hebrew": "משבר",
+    "type": "vocabulary",
+    "filename": "vocab_8e6a699653d9.wav"
+  },
+  "4c05fcb8e596": {
+    "arabic": "إستقرار",
+    "hebrew": "יציבות",
+    "type": "vocabulary",
+    "filename": "vocab_4c05fcb8e596.wav"
+  },
+  "f66f45f096fd": {
+    "arabic": "توازن",
+    "hebrew": "איזון",
+    "type": "vocabulary",
+    "filename": "vocab_f66f45f096fd.wav"
+  },
+  "390fdb44ff27": {
+    "arabic": "ضيق صدر",
+    "hebrew": "מועקה בחזה (סומטי)",
+    "type": "vocabulary",
+    "filename": "vocab_390fdb44ff27.wav"
+  },
+  "55afebf7d84a": {
+    "arabic": "نفسية تعبانة",
+    "hebrew": "נפש עייפה",
+    "type": "vocabulary",
+    "filename": "vocab_55afebf7d84a.wav"
+  },
+  "a979a7c25564": {
+    "arabic": "قلبي معصور",
+    "hebrew": "הלב נסחט",
+    "type": "vocabulary",
+    "filename": "vocab_a979a7c25564.wav"
+  },
+  "294f4b0918d1": {
+    "arabic": "نرفزة",
+    "hebrew": "נרפזה (עצבנות)",
+    "type": "vocabulary",
+    "filename": "vocab_294f4b0918d1.wav"
+  },
+  "a38da10f1a46": {
+    "arabic": "أفكار بتسابق",
+    "hebrew": "מחשבות רצות",
+    "type": "vocabulary",
+    "filename": "vocab_a38da10f1a46.wav"
+  },
+  "7c3fe0585704": {
+    "arabic": "راسي ثقيل",
+    "hebrew": "ראש כבד",
+    "type": "vocabulary",
+    "filename": "vocab_7c3fe0585704.wav"
+  },
+  "cc5998276455": {
+    "arabic": "كل شي إسود",
+    "hebrew": "הכל שחור",
+    "type": "vocabulary",
+    "filename": "vocab_cc5998276455.wav"
+  },
+  "a9cb2a3b556b": {
+    "arabic": "ما عندي حيل على شي",
+    "hebrew": "אין לי כוח לכלום",
+    "type": "vocabulary",
+    "filename": "vocab_a9cb2a3b556b.wav"
+  },
+  "be6caa77eb8b": {
+    "arabic": "مريض",
+    "hebrew": "לכאוב",
+    "type": "vocabulary",
+    "filename": "vocab_be6caa77eb8b.wav"
+  },
+  "b8e1208fdbd0": {
+    "arabic": "دايخ",
+    "hebrew": "מסוחרר",
+    "type": "vocabulary",
+    "filename": "vocab_b8e1208fdbd0.wav"
+  },
+  "232e85151ba1": {
+    "arabic": "ملتهب",
+    "hebrew": "מודלק",
+    "type": "vocabulary",
+    "filename": "vocab_232e85151ba1.wav"
+  },
+  "cbe3f7f4787c": {
+    "arabic": "مكسور",
+    "hebrew": "שבור",
+    "type": "vocabulary",
+    "filename": "vocab_cbe3f7f4787c.wav"
+  },
+  "4de97fbb011c": {
+    "arabic": "وارم",
+    "hebrew": "נפוח",
+    "type": "vocabulary",
+    "filename": "vocab_4de97fbb011c.wav"
+  },
+  "baef3dd7172d": {
+    "arabic": "عالي",
+    "hebrew": "גבוה",
+    "type": "vocabulary",
+    "filename": "vocab_baef3dd7172d.wav"
+  },
+  "7f1182aba15a": {
+    "arabic": "واطي",
+    "hebrew": "נמוך",
+    "type": "vocabulary",
+    "filename": "vocab_7f1182aba15a.wav"
+  },
+  "ec3a04c3b45b": {
+    "arabic": "قوي",
+    "hebrew": "חזק/חריף",
+    "type": "vocabulary",
+    "filename": "vocab_ec3a04c3b45b.wav"
+  },
+  "c606be47f868": {
+    "arabic": "خفيف",
+    "hebrew": "קל/חלש",
+    "type": "vocabulary",
+    "filename": "vocab_c606be47f868.wav"
+  },
+  "ac7cd5e9a68c": {
+    "arabic": "معدي",
+    "hebrew": "מדבק",
+    "type": "vocabulary",
+    "filename": "vocab_ac7cd5e9a68c.wav"
+  },
+  "19220e815fc1": {
+    "arabic": "أحسن",
+    "hebrew": "יותר טוב",
+    "type": "vocabulary",
+    "filename": "vocab_19220e815fc1.wav"
+  },
+  "36db6e893748": {
+    "arabic": "مزمن",
+    "hebrew": "כרוני",
+    "type": "vocabulary",
+    "filename": "vocab_36db6e893748.wav"
+  },
+  "affdeaf6e736": {
+    "arabic": "خطير",
+    "hebrew": "מסוכן",
+    "type": "vocabulary",
+    "filename": "vocab_affdeaf6e736.wav"
+  },
+  "29222758a80e": {
+    "arabic": "صحي",
+    "hebrew": "בריא",
+    "type": "vocabulary",
+    "filename": "vocab_29222758a80e.wav"
+  },
+  "d7f105e7ac55": {
+    "arabic": "ناسح",
+    "hebrew": "שמן",
+    "type": "vocabulary",
+    "filename": "vocab_d7f105e7ac55.wav"
+  },
+  "a5ac5c4cba9a": {
+    "arabic": "ضعيف",
+    "hebrew": "רזה",
+    "type": "vocabulary",
+    "filename": "vocab_a5ac5c4cba9a.wav"
+  },
+  "f6cf560b729d": {
+    "arabic": "نظيف",
+    "hebrew": "נקי",
+    "type": "vocabulary",
+    "filename": "vocab_f6cf560b729d.wav"
+  },
+  "97cd55961be9": {
+    "arabic": "وسخ",
+    "hebrew": "מלוכלך",
+    "type": "vocabulary",
+    "filename": "vocab_97cd55961be9.wav"
+  },
+  "74a353682309": {
+    "arabic": "مفتوح",
+    "hebrew": "פתוח",
+    "type": "vocabulary",
+    "filename": "vocab_74a353682309.wav"
+  },
+  "48045b675603": {
+    "arabic": "مسكر",
+    "hebrew": "סגור",
+    "type": "vocabulary",
+    "filename": "vocab_48045b675603.wav"
+  },
+  "e8ec53483674": {
+    "arabic": "عطشان",
+    "hebrew": "צמא",
+    "type": "vocabulary",
+    "filename": "vocab_e8ec53483674.wav"
+  },
+  "8ef39f9167c4": {
+    "arabic": "جوعان",
+    "hebrew": "רעב",
+    "type": "vocabulary",
+    "filename": "vocab_8ef39f9167c4.wav"
+  },
+  "e1e7a5b44b08": {
+    "arabic": "شبعان",
+    "hebrew": "שבע",
+    "type": "vocabulary",
+    "filename": "vocab_e1e7a5b44b08.wav"
+  },
+  "689b1ddf0955": {
+    "arabic": "حلو",
+    "hebrew": "מתוק",
+    "type": "vocabulary",
+    "filename": "vocab_689b1ddf0955.wav"
+  },
+  "da317cf95658": {
+    "arabic": "حامض",
+    "hebrew": "חמוץ",
+    "type": "vocabulary",
+    "filename": "vocab_da317cf95658.wav"
+  },
+  "6cc30072a2bb": {
+    "arabic": "مر",
+    "hebrew": "מר",
+    "type": "vocabulary",
+    "filename": "vocab_6cc30072a2bb.wav"
+  },
+  "005a79cfeca6": {
+    "arabic": "مشغول",
+    "hebrew": "עסוק",
+    "type": "vocabulary",
+    "filename": "vocab_005a79cfeca6.wav"
+  },
+  "bccae0ccab4c": {
+    "arabic": "فاضي",
+    "hebrew": "פנוי",
+    "type": "vocabulary",
+    "filename": "vocab_bccae0ccab4c.wav"
+  },
+  "d3c958e12157": {
+    "arabic": "حامي / سخن",
+    "hebrew": "חם",
+    "type": "vocabulary",
+    "filename": "vocab_d3c958e12157.wav"
+  },
+  "490131e14ca5": {
+    "arabic": "بارد",
+    "hebrew": "קר",
+    "type": "vocabulary",
+    "filename": "vocab_490131e14ca5.wav"
+  },
+  "2951a13495cb": {
+    "arabic": "ناشف",
+    "hebrew": "יבש",
+    "type": "vocabulary",
+    "filename": "vocab_2951a13495cb.wav"
+  },
+  "1e5ad8b51356": {
+    "arabic": "مبلول",
+    "hebrew": "רטוב",
+    "type": "vocabulary",
+    "filename": "vocab_1e5ad8b51356.wav"
+  },
+  "56fe5672bfbc": {
+    "arabic": "صعب",
+    "hebrew": "קשה",
+    "type": "vocabulary",
+    "filename": "vocab_56fe5672bfbc.wav"
+  },
+  "34847a3560e1": {
+    "arabic": "سهل",
+    "hebrew": "קל",
+    "type": "vocabulary",
+    "filename": "vocab_34847a3560e1.wav"
+  },
+  "feafe6f45747": {
+    "arabic": "سريع",
+    "hebrew": "מהיר",
+    "type": "vocabulary",
+    "filename": "vocab_feafe6f45747.wav"
+  },
+  "ef71786c890d": {
+    "arabic": "بطيء",
+    "hebrew": "איטי",
+    "type": "vocabulary",
+    "filename": "vocab_ef71786c890d.wav"
+  },
+  "d72a977a66da": {
+    "arabic": "بعيد",
+    "hebrew": "רחוק",
+    "type": "vocabulary",
+    "filename": "vocab_d72a977a66da.wav"
+  },
+  "0aaf80ae82ca": {
+    "arabic": "طويل",
+    "hebrew": "ארוך",
+    "type": "vocabulary",
+    "filename": "vocab_0aaf80ae82ca.wav"
+  },
+  "a07c5fcb9430": {
+    "arabic": "قصير",
+    "hebrew": "קצר",
+    "type": "vocabulary",
+    "filename": "vocab_a07c5fcb9430.wav"
+  },
+  "4a7043d40d9e": {
+    "arabic": "واسع / عريض",
+    "hebrew": "רחב",
+    "type": "vocabulary",
+    "filename": "vocab_4a7043d40d9e.wav"
+  },
+  "6d6955193c49": {
+    "arabic": "ضيق",
+    "hebrew": "צר",
+    "type": "vocabulary",
+    "filename": "vocab_6d6955193c49.wav"
+  },
+  "ce5044c2c463": {
+    "arabic": "عميق",
+    "hebrew": "עמוק",
+    "type": "vocabulary",
+    "filename": "vocab_ce5044c2c463.wav"
+  },
+  "91d81cb52fdb": {
+    "arabic": "مسطح",
+    "hebrew": "שטוח",
+    "type": "vocabulary",
+    "filename": "vocab_91d81cb52fdb.wav"
+  },
+  "394020dcae7a": {
+    "arabic": "مستقيم",
+    "hebrew": "ישר",
+    "type": "vocabulary",
+    "filename": "vocab_394020dcae7a.wav"
+  },
+  "16b2813c6e1e": {
+    "arabic": "أعوج",
+    "hebrew": "עקום",
+    "type": "vocabulary",
+    "filename": "vocab_16b2813c6e1e.wav"
+  },
+  "119ce454d984": {
+    "arabic": "مدور",
+    "hebrew": "עגול",
+    "type": "vocabulary",
+    "filename": "vocab_119ce454d984.wav"
+  },
+  "1afda052d176": {
+    "arabic": "مربع",
+    "hebrew": "מרובע",
+    "type": "vocabulary",
+    "filename": "vocab_1afda052d176.wav"
+  },
+  "71839cf1a250": {
+    "arabic": "حاد",
+    "hebrew": "חד",
+    "type": "vocabulary",
+    "filename": "vocab_71839cf1a250.wav"
+  },
+  "567932664419": {
+    "arabic": "كليل",
+    "hebrew": "קהה",
+    "type": "vocabulary",
+    "filename": "vocab_567932664419.wav"
+  },
+  "055853ff4759": {
+    "arabic": "ناعم",
+    "hebrew": "חלק",
+    "type": "vocabulary",
+    "filename": "vocab_055853ff4759.wav"
+  },
+  "486340132270": {
+    "arabic": "خشن",
+    "hebrew": "מחוספס",
+    "type": "vocabulary",
+    "filename": "vocab_486340132270.wav"
+  },
+  "f9d987e7c705": {
+    "arabic": "فاتح",
+    "hebrew": "בהיר",
+    "type": "vocabulary",
+    "filename": "vocab_f9d987e7c705.wav"
+  },
+  "3bb56fc58037": {
+    "arabic": "غامق",
+    "hebrew": "כהה",
+    "type": "vocabulary",
+    "filename": "vocab_3bb56fc58037.wav"
+  },
+  "1a3bba8c6922": {
+    "arabic": "مش حلو",
+    "hebrew": "מכוער",
+    "type": "vocabulary",
+    "filename": "vocab_1a3bba8c6922.wav"
+  },
+  "fa24800f5850": {
+    "arabic": "كبير / عجوز",
+    "hebrew": "זקן",
+    "type": "vocabulary",
+    "filename": "vocab_fa24800f5850.wav"
+  },
+  "f24e69144d34": {
+    "arabic": "صغير / شاب",
+    "hebrew": "צעיר",
+    "type": "vocabulary",
+    "filename": "vocab_f24e69144d34.wav"
+  },
+  "196a74a4cbfc": {
+    "arabic": "مبسوط / فرحان",
+    "hebrew": "שמח",
+    "type": "vocabulary",
+    "filename": "vocab_196a74a4cbfc.wav"
+  },
+  "47e9a85b7550": {
+    "arabic": "زعلان",
+    "hebrew": "עצוב",
+    "type": "vocabulary",
+    "filename": "vocab_47e9a85b7550.wav"
+  },
+  "de9e8a9e8d40": {
+    "arabic": "معصب / زعلان",
+    "hebrew": "כועס",
+    "type": "vocabulary",
+    "filename": "vocab_de9e8a9e8d40.wav"
+  },
+  "568fba695108": {
+    "arabic": "خايف",
+    "hebrew": "מפחד",
+    "type": "vocabulary",
+    "filename": "vocab_568fba695108.wav"
+  },
+  "dcaed8e525c6": {
+    "arabic": "قلقان",
+    "hebrew": "מודאג",
+    "type": "vocabulary",
+    "filename": "vocab_dcaed8e525c6.wav"
+  },
+  "1802a22c3f05": {
+    "arabic": "متفاجئ",
+    "hebrew": "מופתע",
+    "type": "vocabulary",
+    "filename": "vocab_1802a22c3f05.wav"
+  },
+  "a3e157e8ed5d": {
+    "arabic": "محتار",
+    "hebrew": "נבוך",
+    "type": "vocabulary",
+    "filename": "vocab_a3e157e8ed5d.wav"
+  },
+  "a3dde7b4a044": {
+    "arabic": "فخور",
+    "hebrew": "גאה",
+    "type": "vocabulary",
+    "filename": "vocab_a3dde7b4a044.wav"
+  },
+  "7252bc4b1cc0": {
+    "arabic": "مستحي",
+    "hebrew": "מתבייש",
+    "type": "vocabulary",
+    "filename": "vocab_7252bc4b1cc0.wav"
+  },
+  "053b95cf7f04": {
+    "arabic": "متزوج",
+    "hebrew": "נשוי",
+    "type": "vocabulary",
+    "filename": "vocab_053b95cf7f04.wav"
+  },
+  "91117a12bde0": {
+    "arabic": "أرمل",
+    "hebrew": "אלמן",
+    "type": "vocabulary",
+    "filename": "vocab_91117a12bde0.wav"
+  },
+  "54234d19191e": {
+    "arabic": "حامل",
+    "hebrew": "הריונית",
+    "type": "vocabulary",
+    "filename": "vocab_54234d19191e.wav"
+  },
+  "d7fe42c8a316": {
+    "arabic": "جاهز",
+    "hebrew": "מוכן",
+    "type": "vocabulary",
+    "filename": "vocab_d7fe42c8a316.wav"
+  },
+  "7c759cc61601": {
+    "arabic": "مرتب",
+    "hebrew": "מסודר",
+    "type": "vocabulary",
+    "filename": "vocab_7c759cc61601.wav"
+  },
+  "c45d5339d68e": {
+    "arabic": "مش مرتب",
+    "hebrew": "מבולגן",
+    "type": "vocabulary",
+    "filename": "vocab_c45d5339d68e.wav"
+  },
+  "19bc7b998311": {
+    "arabic": "ثقيل",
+    "hebrew": "כבד",
+    "type": "vocabulary",
+    "filename": "vocab_19bc7b998311.wav"
+  },
+  "e8ac6359ff11": {
+    "arabic": "مليان",
+    "hebrew": "מלא",
+    "type": "vocabulary",
+    "filename": "vocab_e8ac6359ff11.wav"
+  },
+  "de9940d32b96": {
+    "arabic": "مزدحم",
+    "hebrew": "עמוס",
+    "type": "vocabulary",
+    "filename": "vocab_de9940d32b96.wav"
+  },
+  "60fd02016ad7": {
+    "arabic": "مستعجل",
+    "hebrew": "דחוף",
+    "type": "vocabulary",
+    "filename": "vocab_60fd02016ad7.wav"
+  },
+  "f154415a8a14": {
+    "arabic": "مهم",
+    "hebrew": "חשוב",
+    "type": "vocabulary",
+    "filename": "vocab_f154415a8a14.wav"
+  },
+  "13132da19d6d": {
+    "arabic": "مثير",
+    "hebrew": "מעניין",
+    "type": "vocabulary",
+    "filename": "vocab_13132da19d6d.wav"
+  },
+  "cbb7de71102f": {
+    "arabic": "جدي",
+    "hebrew": "רציני",
+    "type": "vocabulary",
+    "filename": "vocab_cbb7de71102f.wav"
+  },
+  "929a632156bc": {
+    "arabic": "مضحك",
+    "hebrew": "מצחיק",
+    "type": "vocabulary",
+    "filename": "vocab_929a632156bc.wav"
+  },
+  "f20fa1cc16ab": {
+    "arabic": "غريب",
+    "hebrew": "מוזר",
+    "type": "vocabulary",
+    "filename": "vocab_f20fa1cc16ab.wav"
+  },
+  "50f1c2d0d53f": {
+    "arabic": "عادي",
+    "hebrew": "רגיל",
+    "type": "vocabulary",
+    "filename": "vocab_50f1c2d0d53f.wav"
+  },
+  "f4618619ad4d": {
+    "arabic": "خاص",
+    "hebrew": "מיוחד",
+    "type": "vocabulary",
+    "filename": "vocab_f4618619ad4d.wav"
+  },
+  "b4636444c11a": {
+    "arabic": "نادر",
+    "hebrew": "נדיר",
+    "type": "vocabulary",
+    "filename": "vocab_b4636444c11a.wav"
+  },
+  "aee55d30f21b": {
+    "arabic": "شائع",
+    "hebrew": "נפוץ",
+    "type": "vocabulary",
+    "filename": "vocab_aee55d30f21b.wav"
+  },
+  "5abc46e84997": {
+    "arabic": "مجاني",
+    "hebrew": "חינמי",
+    "type": "vocabulary",
+    "filename": "vocab_5abc46e84997.wav"
+  },
+  "337ce12dfec3": {
+    "arabic": "غالي",
+    "hebrew": "יקר",
+    "type": "vocabulary",
+    "filename": "vocab_337ce12dfec3.wav"
+  },
+  "6ca7e43a6546": {
+    "arabic": "رخيص",
+    "hebrew": "זול",
+    "type": "vocabulary",
+    "filename": "vocab_6ca7e43a6546.wav"
+  },
+  "5bfbec9dbfcd": {
+    "arabic": "صحيح",
+    "hebrew": "נכון",
+    "type": "vocabulary",
+    "filename": "vocab_5bfbec9dbfcd.wav"
+  },
+  "644bd073b868": {
+    "arabic": "واضح",
+    "hebrew": "ברור",
+    "type": "vocabulary",
+    "filename": "vocab_644bd073b868.wav"
+  },
+  "f01a7310975f": {
+    "arabic": "معروف",
+    "hebrew": "מוכר",
+    "type": "vocabulary",
+    "filename": "vocab_f01a7310975f.wav"
+  },
+  "45d0c2ab3196": {
+    "arabic": "محلي",
+    "hebrew": "מקומי",
+    "type": "vocabulary",
+    "filename": "vocab_45d0c2ab3196.wav"
+  },
+  "22381f853ba3": {
+    "arabic": "داخلي",
+    "hebrew": "פנימי",
+    "type": "vocabulary",
+    "filename": "vocab_22381f853ba3.wav"
+  },
+  "3571c2ea37ce": {
+    "arabic": "خارجي",
+    "hebrew": "חיצוני",
+    "type": "vocabulary",
+    "filename": "vocab_3571c2ea37ce.wav"
+  },
+  "cc7c36f26eac": {
+    "arabic": "فوقاني",
+    "hebrew": "עליון",
+    "type": "vocabulary",
+    "filename": "vocab_cc7c36f26eac.wav"
+  },
+  "31c914463d3e": {
+    "arabic": "تحتاني",
+    "hebrew": "תחתון",
+    "type": "vocabulary",
+    "filename": "vocab_31c914463d3e.wav"
+  },
+  "4841d5bfa0cf": {
+    "arabic": "أمامي",
+    "hebrew": "קדמי",
+    "type": "vocabulary",
+    "filename": "vocab_4841d5bfa0cf.wav"
+  },
+  "38263d9dff4d": {
+    "arabic": "خلفي",
+    "hebrew": "אחורי",
+    "type": "vocabulary",
+    "filename": "vocab_38263d9dff4d.wav"
+  },
+  "e6921203159b": {
+    "arabic": "يميني",
+    "hebrew": "ימני",
+    "type": "vocabulary",
+    "filename": "vocab_e6921203159b.wav"
+  },
+  "85ec28d9b2f2": {
+    "arabic": "شمالي",
+    "hebrew": "שמאלי",
+    "type": "vocabulary",
+    "filename": "vocab_85ec28d9b2f2.wav"
+  },
+  "503ef21edcaf": {
+    "arabic": "حر",
+    "hebrew": "חריף (אוכל)",
+    "type": "vocabulary",
+    "filename": "vocab_503ef21edcaf.wav"
+  },
+  "fa79b1d9e573": {
+    "arabic": "مالح",
+    "hebrew": "מלוח",
+    "type": "vocabulary",
+    "filename": "vocab_fa79b1d9e573.wav"
+  },
+  "5d2e7dc0ec3e": {
+    "arabic": "زاكي / طيب",
+    "hebrew": "טעים",
+    "type": "vocabulary",
+    "filename": "vocab_5d2e7dc0ec3e.wav"
+  },
+  "c514e06460d2": {
+    "arabic": "مستوي",
+    "hebrew": "בשל",
+    "type": "vocabulary",
+    "filename": "vocab_c514e06460d2.wav"
+  },
+  "4c5645a5edec": {
+    "arabic": "ني",
+    "hebrew": "נא (לא מבושל)",
+    "type": "vocabulary",
+    "filename": "vocab_4c5645a5edec.wav"
+  },
+  "a40debebe50b": {
+    "arabic": "محروق",
+    "hebrew": "שרוף",
+    "type": "vocabulary",
+    "filename": "vocab_a40debebe50b.wav"
+  },
+  "48afa2e4fdf4": {
+    "arabic": "مجمد",
+    "hebrew": "קפוא",
+    "type": "vocabulary",
+    "filename": "vocab_48afa2e4fdf4.wav"
+  },
+  "034ddda314f7": {
+    "arabic": "طازج",
+    "hebrew": "טרי",
+    "type": "vocabulary",
+    "filename": "vocab_034ddda314f7.wav"
+  },
+  "ada134652356": {
+    "arabic": "خربان",
+    "hebrew": "מקולקל",
+    "type": "vocabulary",
+    "filename": "vocab_ada134652356.wav"
+  },
+  "d54c0ef8a28d": {
+    "arabic": "ساعة",
+    "hebrew": "שעה",
+    "type": "vocabulary",
+    "filename": "vocab_d54c0ef8a28d.wav"
+  },
+  "359f9df772c9": {
+    "arabic": "دقيقة",
+    "hebrew": "דקה",
+    "type": "vocabulary",
+    "filename": "vocab_359f9df772c9.wav"
+  },
+  "d7a2c295db40": {
+    "arabic": "ثانية",
+    "hebrew": "שנייה",
+    "type": "vocabulary",
+    "filename": "vocab_d7a2c295db40.wav"
+  },
+  "1095462050ad": {
+    "arabic": "يوم",
+    "hebrew": "יום",
+    "type": "vocabulary",
+    "filename": "vocab_1095462050ad.wav"
+  },
+  "0bd3400ff641": {
+    "arabic": "أسبوع",
+    "hebrew": "שבוע",
+    "type": "vocabulary",
+    "filename": "vocab_0bd3400ff641.wav"
+  },
+  "f0e804d0d07c": {
+    "arabic": "شهر",
+    "hebrew": "חודש",
+    "type": "vocabulary",
+    "filename": "vocab_f0e804d0d07c.wav"
+  },
+  "92d1b47100ee": {
+    "arabic": "سنة",
+    "hebrew": "שנה",
+    "type": "vocabulary",
+    "filename": "vocab_92d1b47100ee.wav"
+  },
+  "1b5fe67f11ca": {
+    "arabic": "صباح / صبح",
+    "hebrew": "בוקר",
+    "type": "vocabulary",
+    "filename": "vocab_1b5fe67f11ca.wav"
+  },
+  "9d3d1e4fdd2f": {
+    "arabic": "بعد الظهر",
+    "hebrew": "אחר הצהריים",
+    "type": "vocabulary",
+    "filename": "vocab_9d3d1e4fdd2f.wav"
+  },
+  "5ecc0ad5e921": {
+    "arabic": "مسا / عشية",
+    "hebrew": "ערב",
+    "type": "vocabulary",
+    "filename": "vocab_5ecc0ad5e921.wav"
+  },
+  "10ff8c5b09bf": {
+    "arabic": "ليل",
+    "hebrew": "לילה",
+    "type": "vocabulary",
+    "filename": "vocab_10ff8c5b09bf.wav"
+  },
+  "8f01efe2ac39": {
+    "arabic": "نص الليل",
+    "hebrew": "חצות",
+    "type": "vocabulary",
+    "filename": "vocab_8f01efe2ac39.wav"
+  },
+  "db18ddb078de": {
+    "arabic": "يوم الأحد",
+    "hebrew": "יום ראשון",
+    "type": "vocabulary",
+    "filename": "vocab_db18ddb078de.wav"
+  },
+  "1c2e016b8728": {
+    "arabic": "يوم الإتنين",
+    "hebrew": "יום שני",
+    "type": "vocabulary",
+    "filename": "vocab_1c2e016b8728.wav"
+  },
+  "5ce32f06c446": {
+    "arabic": "يوم التلاتا",
+    "hebrew": "יום שלישי",
+    "type": "vocabulary",
+    "filename": "vocab_5ce32f06c446.wav"
+  },
+  "b61721b2d2cc": {
+    "arabic": "يوم الأربعا",
+    "hebrew": "יום רביעי",
+    "type": "vocabulary",
+    "filename": "vocab_b61721b2d2cc.wav"
+  },
+  "a55a6f7def76": {
+    "arabic": "يوم الخميس",
+    "hebrew": "יום חמישי",
+    "type": "vocabulary",
+    "filename": "vocab_a55a6f7def76.wav"
+  },
+  "e947d5bf9553": {
+    "arabic": "يوم الجمعة",
+    "hebrew": "יום שישי",
+    "type": "vocabulary",
+    "filename": "vocab_e947d5bf9553.wav"
+  },
+  "e8464b5eb8f9": {
+    "arabic": "يوم السبت",
+    "hebrew": "יום שבת",
+    "type": "vocabulary",
+    "filename": "vocab_e8464b5eb8f9.wav"
+  },
+  "053ef3726197": {
+    "arabic": "كانون التاني",
+    "hebrew": "ינואר",
+    "type": "vocabulary",
+    "filename": "vocab_053ef3726197.wav"
+  },
+  "4f826f25cca8": {
+    "arabic": "شباط",
+    "hebrew": "פברואר",
+    "type": "vocabulary",
+    "filename": "vocab_4f826f25cca8.wav"
+  },
+  "48e4e0b97577": {
+    "arabic": "آذار",
+    "hebrew": "מרץ",
+    "type": "vocabulary",
+    "filename": "vocab_48e4e0b97577.wav"
+  },
+  "0fb20b550b8b": {
+    "arabic": "نيسان",
+    "hebrew": "אפריל",
+    "type": "vocabulary",
+    "filename": "vocab_0fb20b550b8b.wav"
+  },
+  "abb409acfd07": {
+    "arabic": "أيار",
+    "hebrew": "מאי",
+    "type": "vocabulary",
+    "filename": "vocab_abb409acfd07.wav"
+  },
+  "18761330262b": {
+    "arabic": "حزيران",
+    "hebrew": "יוני",
+    "type": "vocabulary",
+    "filename": "vocab_18761330262b.wav"
+  },
+  "87f1b59b4aeb": {
+    "arabic": "تموز",
+    "hebrew": "יולי",
+    "type": "vocabulary",
+    "filename": "vocab_87f1b59b4aeb.wav"
+  },
+  "0c5c17dbd1c6": {
+    "arabic": "آب",
+    "hebrew": "אוגוסט",
+    "type": "vocabulary",
+    "filename": "vocab_0c5c17dbd1c6.wav"
+  },
+  "0929aadf8610": {
+    "arabic": "أيلول",
+    "hebrew": "ספטמבר",
+    "type": "vocabulary",
+    "filename": "vocab_0929aadf8610.wav"
+  },
+  "c2351df1ae6d": {
+    "arabic": "تشرين الأول",
+    "hebrew": "אוקטובר",
+    "type": "vocabulary",
+    "filename": "vocab_c2351df1ae6d.wav"
+  },
+  "92ad06eb5536": {
+    "arabic": "تشرين التاني",
+    "hebrew": "נובמבר",
+    "type": "vocabulary",
+    "filename": "vocab_92ad06eb5536.wav"
+  },
+  "2634eb07ed92": {
+    "arabic": "كانون الأول",
+    "hebrew": "דצמבר",
+    "type": "vocabulary",
+    "filename": "vocab_2634eb07ed92.wav"
+  },
+  "5265bd9e47ad": {
+    "arabic": "نص ساعة",
+    "hebrew": "חצי שעה",
+    "type": "vocabulary",
+    "filename": "vocab_5265bd9e47ad.wav"
+  },
+  "bc40afc1759a": {
+    "arabic": "ربع ساعة",
+    "hebrew": "רבע שעה",
+    "type": "vocabulary",
+    "filename": "vocab_bc40afc1759a.wav"
+  },
+  "e19104f9d8e3": {
+    "arabic": "بكير",
+    "hebrew": "מוקדם",
+    "type": "vocabulary",
+    "filename": "vocab_e19104f9d8e3.wav"
+  },
+  "a3365ac9827c": {
+    "arabic": "متأخر",
+    "hebrew": "מאוחר",
+    "type": "vocabulary",
+    "filename": "vocab_a3365ac9827c.wav"
+  },
+  "871b39045971": {
+    "arabic": "بالوقت",
+    "hebrew": "בזמן",
+    "type": "vocabulary",
+    "filename": "vocab_871b39045971.wav"
+  },
+  "93fd1818c3c0": {
+    "arabic": "أكل",
+    "hebrew": "אוכל",
+    "type": "vocabulary",
+    "filename": "vocab_93fd1818c3c0.wav"
+  },
+  "d9101e556436": {
+    "arabic": "شرب",
+    "hebrew": "שתייה",
+    "type": "vocabulary",
+    "filename": "vocab_d9101e556436.wav"
+  },
+  "9e554a65730d": {
+    "arabic": "مي / ماء",
+    "hebrew": "מים",
+    "type": "vocabulary",
+    "filename": "vocab_9e554a65730d.wav"
+  },
+  "782f48c780b2": {
+    "arabic": "خبز",
+    "hebrew": "לחם",
+    "type": "vocabulary",
+    "filename": "vocab_782f48c780b2.wav"
+  },
+  "791065191eb5": {
+    "arabic": "رز",
+    "hebrew": "אורז",
+    "type": "vocabulary",
+    "filename": "vocab_791065191eb5.wav"
+  },
+  "832b8a1924ee": {
+    "arabic": "لحم / لحمة",
+    "hebrew": "בשר",
+    "type": "vocabulary",
+    "filename": "vocab_832b8a1924ee.wav"
+  },
+  "33fa31b4500e": {
+    "arabic": "دجاج",
+    "hebrew": "עוף",
+    "type": "vocabulary",
+    "filename": "vocab_33fa31b4500e.wav"
+  },
+  "5ae5476a9545": {
+    "arabic": "سمك",
+    "hebrew": "דג",
+    "type": "vocabulary",
+    "filename": "vocab_5ae5476a9545.wav"
+  },
+  "07352e2e0174": {
+    "arabic": "بيضة",
+    "hebrew": "ביצה",
+    "type": "vocabulary",
+    "filename": "vocab_07352e2e0174.wav"
+  },
+  "531d6f2ce07a": {
+    "arabic": "حليب",
+    "hebrew": "חלב",
+    "type": "vocabulary",
+    "filename": "vocab_531d6f2ce07a.wav"
+  },
+  "ca3468f0de29": {
+    "arabic": "جبنة",
+    "hebrew": "גבינה",
+    "type": "vocabulary",
+    "filename": "vocab_ca3468f0de29.wav"
+  },
+  "36f8a5e02a97": {
+    "arabic": "لبن",
+    "hebrew": "לבן",
+    "type": "vocabulary",
+    "filename": "vocab_36f8a5e02a97.wav"
+  },
+  "f0f5e2ec2676": {
+    "arabic": "زيت",
+    "hebrew": "שמן",
+    "type": "vocabulary",
+    "filename": "vocab_f0f5e2ec2676.wav"
+  },
+  "7befa823c980": {
+    "arabic": "سكر",
+    "hebrew": "סוכר",
+    "type": "vocabulary",
+    "filename": "vocab_7befa823c980.wav"
+  },
+  "333dca3e0103": {
+    "arabic": "ملح",
+    "hebrew": "מלח",
+    "type": "vocabulary",
+    "filename": "vocab_333dca3e0103.wav"
+  },
+  "810719cb1a09": {
+    "arabic": "فلفل",
+    "hebrew": "פלפל",
+    "type": "vocabulary",
+    "filename": "vocab_810719cb1a09.wav"
+  },
+  "e2e432fe08f2": {
+    "arabic": "خضار",
+    "hebrew": "ירקות",
+    "type": "vocabulary",
+    "filename": "vocab_e2e432fe08f2.wav"
+  },
+  "a69bb05dab26": {
+    "arabic": "فواكه",
+    "hebrew": "פירות",
+    "type": "vocabulary",
+    "filename": "vocab_a69bb05dab26.wav"
+  },
+  "d7194c79cd44": {
+    "arabic": "تفاحة",
+    "hebrew": "תפוח",
+    "type": "vocabulary",
+    "filename": "vocab_d7194c79cd44.wav"
+  },
+  "dd482d72b071": {
+    "arabic": "برتقالة",
+    "hebrew": "תפוז",
+    "type": "vocabulary",
+    "filename": "vocab_dd482d72b071.wav"
+  },
+  "31c928ac48ad": {
+    "arabic": "موزة",
+    "hebrew": "בננה",
+    "type": "vocabulary",
+    "filename": "vocab_31c928ac48ad.wav"
+  },
+  "f4ad3e23d4d8": {
+    "arabic": "بندورة",
+    "hebrew": "עגבנייה",
+    "type": "vocabulary",
+    "filename": "vocab_f4ad3e23d4d8.wav"
+  },
+  "a925f41256a4": {
+    "arabic": "خيار",
+    "hebrew": "מלפפון",
+    "type": "vocabulary",
+    "filename": "vocab_a925f41256a4.wav"
+  },
+  "bb88da30b844": {
+    "arabic": "بصل",
+    "hebrew": "בצל",
+    "type": "vocabulary",
+    "filename": "vocab_bb88da30b844.wav"
+  },
+  "ebdfe7c6f234": {
+    "arabic": "ثوم",
+    "hebrew": "שום",
+    "type": "vocabulary",
+    "filename": "vocab_ebdfe7c6f234.wav"
+  },
+  "de82c096e123": {
+    "arabic": "بطاطا",
+    "hebrew": "תפוח אדמה",
+    "type": "vocabulary",
+    "filename": "vocab_de82c096e123.wav"
+  },
+  "d8dd37012b01": {
+    "arabic": "خبز عربي",
+    "hebrew": "פיתה",
+    "type": "vocabulary",
+    "filename": "vocab_d8dd37012b01.wav"
+  },
+  "53edf879b1c2": {
+    "arabic": "حمص",
+    "hebrew": "חומוס",
+    "type": "vocabulary",
+    "filename": "vocab_53edf879b1c2.wav"
+  },
+  "4b9cc7a1f400": {
+    "arabic": "فلافل",
+    "hebrew": "פלאפל",
+    "type": "vocabulary",
+    "filename": "vocab_4b9cc7a1f400.wav"
+  },
+  "dade765d95fd": {
+    "arabic": "شاورما",
+    "hebrew": "שווארמה",
+    "type": "vocabulary",
+    "filename": "vocab_dade765d95fd.wav"
+  },
+  "437e46188ba7": {
+    "arabic": "شاي",
+    "hebrew": "תה",
+    "type": "vocabulary",
+    "filename": "vocab_437e46188ba7.wav"
+  },
+  "afafb93ad5e3": {
+    "arabic": "قهوة",
+    "hebrew": "קפה",
+    "type": "vocabulary",
+    "filename": "vocab_afafb93ad5e3.wav"
+  },
+  "3802ef6c35ea": {
+    "arabic": "عصير",
+    "hebrew": "מיץ",
+    "type": "vocabulary",
+    "filename": "vocab_3802ef6c35ea.wav"
+  },
+  "cdb2f6bcfada": {
+    "arabic": "سلطة",
+    "hebrew": "סלט",
+    "type": "vocabulary",
+    "filename": "vocab_cdb2f6bcfada.wav"
+  },
+  "3b3b9d776da2": {
+    "arabic": "شوربة",
+    "hebrew": "מרק",
+    "type": "vocabulary",
+    "filename": "vocab_3b3b9d776da2.wav"
+  },
+  "b9c73ad13c41": {
+    "arabic": "فطور",
+    "hebrew": "ארוחת בוקר",
+    "type": "vocabulary",
+    "filename": "vocab_b9c73ad13c41.wav"
+  },
+  "e44ae3f1fb02": {
+    "arabic": "غدا",
+    "hebrew": "ארוחת צהריים",
+    "type": "vocabulary",
+    "filename": "vocab_e44ae3f1fb02.wav"
+  },
+  "edb095ef239b": {
+    "arabic": "عشا",
+    "hebrew": "ארוחת ערב",
+    "type": "vocabulary",
+    "filename": "vocab_edb095ef239b.wav"
+  },
+  "87def5d0ab96": {
+    "arabic": "شهية",
+    "hebrew": "תאבון",
+    "type": "vocabulary",
+    "filename": "vocab_87def5d0ab96.wav"
+  },
+  "3f745b0d915e": {
+    "arabic": "حمية / رجيم",
+    "hebrew": "דיאטה",
+    "type": "vocabulary",
+    "filename": "vocab_3f745b0d915e.wav"
+  },
+  "efc47599ea1b": {
+    "arabic": "بيت / دار",
+    "hebrew": "בית",
+    "type": "vocabulary",
+    "filename": "vocab_efc47599ea1b.wav"
+  },
+  "88fbf7e8aaf4": {
+    "arabic": "غرفة",
+    "hebrew": "חדר",
+    "type": "vocabulary",
+    "filename": "vocab_88fbf7e8aaf4.wav"
+  },
+  "8cad6d913d2c": {
+    "arabic": "مطبخ",
+    "hebrew": "מטבח",
+    "type": "vocabulary",
+    "filename": "vocab_8cad6d913d2c.wav"
+  },
+  "f49492da5a29": {
+    "arabic": "صالون",
+    "hebrew": "סלון",
+    "type": "vocabulary",
+    "filename": "vocab_f49492da5a29.wav"
+  },
+  "fd1179675267": {
+    "arabic": "غرفة نوم",
+    "hebrew": "חדר שינה",
+    "type": "vocabulary",
+    "filename": "vocab_fd1179675267.wav"
+  },
+  "a76ba04e19ae": {
+    "arabic": "حمام",
+    "hebrew": "חדר אמבטיה",
+    "type": "vocabulary",
+    "filename": "vocab_a76ba04e19ae.wav"
+  },
+  "6c5329539165": {
+    "arabic": "حديقة",
+    "hebrew": "גינה",
+    "type": "vocabulary",
+    "filename": "vocab_6c5329539165.wav"
+  },
+  "c3942f8fd807": {
+    "arabic": "بلكونة",
+    "hebrew": "מרפסת",
+    "type": "vocabulary",
+    "filename": "vocab_c3942f8fd807.wav"
+  },
+  "757bdde47fc1": {
+    "arabic": "شارع",
+    "hebrew": "רחוב",
+    "type": "vocabulary",
+    "filename": "vocab_757bdde47fc1.wav"
+  },
+  "02bd201edf4d": {
+    "arabic": "ساحة",
+    "hebrew": "כיכר",
+    "type": "vocabulary",
+    "filename": "vocab_02bd201edf4d.wav"
+  },
+  "990b647adb47": {
+    "arabic": "سوق",
+    "hebrew": "שוק",
+    "type": "vocabulary",
+    "filename": "vocab_990b647adb47.wav"
+  },
+  "baf57595329f": {
+    "arabic": "دكان / محل",
+    "hebrew": "חנות",
+    "type": "vocabulary",
+    "filename": "vocab_baf57595329f.wav"
+  },
+  "21513390571d": {
+    "arabic": "سوبر ماركت",
+    "hebrew": "סופרמרקט",
+    "type": "vocabulary",
+    "filename": "vocab_21513390571d.wav"
+  },
+  "f1c3632a05a5": {
+    "arabic": "مدرسة",
+    "hebrew": "בית ספר",
+    "type": "vocabulary",
+    "filename": "vocab_f1c3632a05a5.wav"
+  },
+  "40963eaea5c6": {
+    "arabic": "جامعة",
+    "hebrew": "אוניברסיטה",
+    "type": "vocabulary",
+    "filename": "vocab_40963eaea5c6.wav"
+  },
+  "b7ded9cda66e": {
+    "arabic": "كنيسة",
+    "hebrew": "כנסייה",
+    "type": "vocabulary",
+    "filename": "vocab_b7ded9cda66e.wav"
+  },
+  "e0ad5d20f2d6": {
+    "arabic": "مسجد / جامع",
+    "hebrew": "מסגד",
+    "type": "vocabulary",
+    "filename": "vocab_e0ad5d20f2d6.wav"
+  },
+  "c1ff6732b3db": {
+    "arabic": "مقبرة",
+    "hebrew": "בית עלמין",
+    "type": "vocabulary",
+    "filename": "vocab_c1ff6732b3db.wav"
+  },
+  "ee011037a6f9": {
+    "arabic": "محطة باص",
+    "hebrew": "תחנת אוטובוס",
+    "type": "vocabulary",
+    "filename": "vocab_ee011037a6f9.wav"
+  },
+  "76b521a22a3e": {
+    "arabic": "محطة قطار",
+    "hebrew": "תחנת רכבת",
+    "type": "vocabulary",
+    "filename": "vocab_76b521a22a3e.wav"
+  },
+  "abf676f70083": {
+    "arabic": "مطار",
+    "hebrew": "שדה תעופה",
+    "type": "vocabulary",
+    "filename": "vocab_abf676f70083.wav"
+  },
+  "6883efc22546": {
+    "arabic": "ميناء",
+    "hebrew": "נמל",
+    "type": "vocabulary",
+    "filename": "vocab_6883efc22546.wav"
+  },
+  "475f77673490": {
+    "arabic": "فندق",
+    "hebrew": "מלון",
+    "type": "vocabulary",
+    "filename": "vocab_475f77673490.wav"
+  },
+  "780240853b41": {
+    "arabic": "مطعم",
+    "hebrew": "מסעדה",
+    "type": "vocabulary",
+    "filename": "vocab_780240853b41.wav"
+  },
+  "a2c63b7cbb88": {
+    "arabic": "بنك",
+    "hebrew": "בנק",
+    "type": "vocabulary",
+    "filename": "vocab_a2c63b7cbb88.wav"
+  },
+  "7879acb16480": {
+    "arabic": "بريد",
+    "hebrew": "דואר",
+    "type": "vocabulary",
+    "filename": "vocab_7879acb16480.wav"
+  },
+  "84011d2e7a68": {
+    "arabic": "شرطة",
+    "hebrew": "משטרה",
+    "type": "vocabulary",
+    "filename": "vocab_84011d2e7a68.wav"
+  },
+  "a17858e30e66": {
+    "arabic": "إطفائية",
+    "hebrew": "כיבוי אש",
+    "type": "vocabulary",
+    "filename": "vocab_a17858e30e66.wav"
+  },
+  "52d27cab57e7": {
+    "arabic": "بحر",
+    "hebrew": "ים",
+    "type": "vocabulary",
+    "filename": "vocab_52d27cab57e7.wav"
+  },
+  "6f4d8c64bf2c": {
+    "arabic": "جبل",
+    "hebrew": "הר",
+    "type": "vocabulary",
+    "filename": "vocab_6f4d8c64bf2c.wav"
+  },
+  "1ab5668ae93f": {
+    "arabic": "نهر",
+    "hebrew": "נהר",
+    "type": "vocabulary",
+    "filename": "vocab_1ab5668ae93f.wav"
+  },
+  "fdcf04c27d53": {
+    "arabic": "مدينة",
+    "hebrew": "עיר",
+    "type": "vocabulary",
+    "filename": "vocab_fdcf04c27d53.wav"
+  },
+  "5961f8d0f587": {
+    "arabic": "قرية",
+    "hebrew": "כפר",
+    "type": "vocabulary",
+    "filename": "vocab_5961f8d0f587.wav"
+  },
+  "0ec332fda68e": {
+    "arabic": "حارة",
+    "hebrew": "שכונה",
+    "type": "vocabulary",
+    "filename": "vocab_0ec332fda68e.wav"
+  },
+  "029a4d819c59": {
+    "arabic": "دولة",
+    "hebrew": "מדינה",
+    "type": "vocabulary",
+    "filename": "vocab_029a4d819c59.wav"
+  },
+  "a327fb24cc68": {
+    "arabic": "حدود",
+    "hebrew": "גבול",
+    "type": "vocabulary",
+    "filename": "vocab_a327fb24cc68.wav"
+  },
+  "4ec68db17dbd": {
+    "arabic": "معبر",
+    "hebrew": "מעבר",
+    "type": "vocabulary",
+    "filename": "vocab_4ec68db17dbd.wav"
+  },
+  "bef05db8b4bd": {
+    "arabic": "حاجز",
+    "hebrew": "מחסום",
+    "type": "vocabulary",
+    "filename": "vocab_bef05db8b4bd.wav"
+  },
+  "41faa607c197": {
+    "arabic": "القدس",
+    "hebrew": "ירושלים",
+    "type": "vocabulary",
+    "filename": "vocab_41faa607c197.wav"
+  },
+  "22236a9a68c9": {
+    "arabic": "رام الله",
+    "hebrew": "רמאללה",
+    "type": "vocabulary",
+    "filename": "vocab_22236a9a68c9.wav"
+  },
+  "281ecb6246ce": {
+    "arabic": "بيت لحم",
+    "hebrew": "בית לחם",
+    "type": "vocabulary",
+    "filename": "vocab_281ecb6246ce.wav"
+  },
+  "a8c9f8e580ab": {
+    "arabic": "الخليل",
+    "hebrew": "חברון",
+    "type": "vocabulary",
+    "filename": "vocab_a8c9f8e580ab.wav"
+  },
+  "d55a6b7d4d80": {
+    "arabic": "نابلس",
+    "hebrew": "שכם",
+    "type": "vocabulary",
+    "filename": "vocab_d55a6b7d4d80.wav"
+  },
+  "dd1516b1cc2a": {
+    "arabic": "يافا",
+    "hebrew": "יפו",
+    "type": "vocabulary",
+    "filename": "vocab_dd1516b1cc2a.wav"
+  },
+  "66883045638a": {
+    "arabic": "حيفا",
+    "hebrew": "חיפה",
+    "type": "vocabulary",
+    "filename": "vocab_66883045638a.wav"
+  },
+  "b8ecb4e284e8": {
+    "arabic": "عكا",
+    "hebrew": "עכו",
+    "type": "vocabulary",
+    "filename": "vocab_b8ecb4e284e8.wav"
+  },
+  "99954a71290b": {
+    "arabic": "الناصرة",
+    "hebrew": "נצרת",
+    "type": "vocabulary",
+    "filename": "vocab_99954a71290b.wav"
+  },
+  "21c990eda7f2": {
+    "arabic": "غزة",
+    "hebrew": "עזה",
+    "type": "vocabulary",
+    "filename": "vocab_21c990eda7f2.wav"
+  },
+  "17f112aa186d": {
+    "arabic": "إسرائيل",
+    "hebrew": "ישראל",
+    "type": "vocabulary",
+    "filename": "vocab_17f112aa186d.wav"
+  },
+  "fce202f32850": {
+    "arabic": "فلسطين",
+    "hebrew": "פלסטין",
+    "type": "vocabulary",
+    "filename": "vocab_fce202f32850.wav"
+  },
+  "2ab8cd6c642a": {
+    "arabic": "درج",
+    "hebrew": "מדרגות",
+    "type": "vocabulary",
+    "filename": "vocab_2ab8cd6c642a.wav"
+  },
+  "ace4db312afa": {
+    "arabic": "مصعد / أسنسير",
+    "hebrew": "מעלית",
+    "type": "vocabulary",
+    "filename": "vocab_ace4db312afa.wav"
+  },
+  "4ee610dade72": {
+    "arabic": "ممر",
+    "hebrew": "מסדרון",
+    "type": "vocabulary",
+    "filename": "vocab_4ee610dade72.wav"
+  },
+  "761e3eae9411": {
+    "arabic": "مدخل",
+    "hebrew": "כניסה",
+    "type": "vocabulary",
+    "filename": "vocab_761e3eae9411.wav"
+  },
+  "6d518c9d9b4d": {
+    "arabic": "مخرج",
+    "hebrew": "יציאה",
+    "type": "vocabulary",
+    "filename": "vocab_6d518c9d9b4d.wav"
+  },
+  "5107c77aad66": {
+    "arabic": "غرفة الإنتظار",
+    "hebrew": "חדר המתנה",
+    "type": "vocabulary",
+    "filename": "vocab_5107c77aad66.wav"
+  },
+  "7f94d4be022f": {
+    "arabic": "طابق",
+    "hebrew": "קומה",
+    "type": "vocabulary",
+    "filename": "vocab_7f94d4be022f.wav"
+  },
+  "5fbe37b5c7bd": {
+    "arabic": "الأردن",
+    "hebrew": "ירדן",
+    "type": "vocabulary",
+    "filename": "vocab_5fbe37b5c7bd.wav"
+  },
+  "bdba96107ed8": {
+    "arabic": "لبنان",
+    "hebrew": "לבנון",
+    "type": "vocabulary",
+    "filename": "vocab_bdba96107ed8.wav"
+  },
+  "33031f18e719": {
+    "arabic": "سوريا",
+    "hebrew": "סוריה",
+    "type": "vocabulary",
+    "filename": "vocab_33031f18e719.wav"
+  },
+  "8df90dec562a": {
+    "arabic": "مصر",
+    "hebrew": "מצרים",
+    "type": "vocabulary",
+    "filename": "vocab_8df90dec562a.wav"
+  },
+  "9530db02d3c8": {
+    "arabic": "مرحبا",
+    "hebrew": "שלום כללי",
+    "type": "vocabulary",
+    "filename": "vocab_9530db02d3c8.wav"
+  },
+  "7e922ad95c1f": {
+    "arabic": "السلام عليكم",
+    "hebrew": "שלום דתי",
+    "type": "vocabulary",
+    "filename": "vocab_7e922ad95c1f.wav"
+  },
+  "e6bf98a869c9": {
+    "arabic": "صباح الخير",
+    "hebrew": "בוקר טוב",
+    "type": "vocabulary",
+    "filename": "vocab_e6bf98a869c9.wav"
+  },
+  "1d720418ab2e": {
+    "arabic": "مساء الخير",
+    "hebrew": "ערב טוב",
+    "type": "vocabulary",
+    "filename": "vocab_1d720418ab2e.wav"
+  },
+  "d5c9189c9994": {
+    "arabic": "كيف حالك؟",
+    "hebrew": "מה שלומך?",
+    "type": "vocabulary",
+    "filename": "vocab_d5c9189c9994.wav"
+  },
+  "ca64b59bb8b8": {
+    "arabic": "كيفك؟",
+    "hebrew": "מה שלומך? (ב)",
+    "type": "vocabulary",
+    "filename": "vocab_ca64b59bb8b8.wav"
+  },
+  "9444533210ef": {
+    "arabic": "أهلاً وسهلاً",
+    "hebrew": "ברוך הבא",
+    "type": "vocabulary",
+    "filename": "vocab_9444533210ef.wav"
+  },
+  "848feed88fb6": {
+    "arabic": "كيف الصحة؟",
+    "hebrew": "בדיקת בריאות",
+    "type": "vocabulary",
+    "filename": "vocab_848feed88fb6.wav"
+  },
+  "e8288bbd3c7f": {
+    "arabic": "كيف العيلة؟",
+    "hebrew": "המשפחה",
+    "type": "vocabulary",
+    "filename": "vocab_e8288bbd3c7f.wav"
+  },
+  "eb6ecde36938": {
+    "arabic": "تشرفنا",
+    "hebrew": "נעים להכיר",
+    "type": "vocabulary",
+    "filename": "vocab_eb6ecde36938.wav"
+  },
+  "ae6e471f31b7": {
+    "arabic": "مع السلامة",
+    "hebrew": "פרידה",
+    "type": "vocabulary",
+    "filename": "vocab_ae6e471f31b7.wav"
+  },
+  "377f5afd3dca": {
+    "arabic": "بشوفك بعدين",
+    "hebrew": "להתראות",
+    "type": "vocabulary",
+    "filename": "vocab_377f5afd3dca.wav"
+  },
+  "6ef516558158": {
+    "arabic": "شكراً جزيلاً",
+    "hebrew": "תודה רבה",
+    "type": "vocabulary",
+    "filename": "vocab_6ef516558158.wav"
+  },
+  "e01166bdf39b": {
+    "arabic": "يسلمو إيديك",
+    "hebrew": "תבורכנה ידיך",
+    "type": "vocabulary",
+    "filename": "vocab_e01166bdf39b.wav"
+  },
+  "c05c0ee3eca3": {
+    "arabic": "العفو",
+    "hebrew": "סליחה/מחילה",
+    "type": "vocabulary",
+    "filename": "vocab_c05c0ee3eca3.wav"
+  },
+  "564dd219563d": {
+    "arabic": "مبروك",
+    "hebrew": "מזל טוב",
+    "type": "vocabulary",
+    "filename": "vocab_564dd219563d.wav"
+  },
+  "343b14c50b53": {
+    "arabic": "كل عام وإنت بخير",
+    "hebrew": "בחג",
+    "type": "vocabulary",
+    "filename": "vocab_343b14c50b53.wav"
+  },
+  "5b04cae5e563": {
+    "arabic": "نعيماً",
+    "hebrew": "אחרי מקלחת/תספורת",
+    "type": "vocabulary",
+    "filename": "vocab_5b04cae5e563.wav"
+  },
+  "9f9a43c00037": {
+    "arabic": "صحتين",
+    "hebrew": "באוכל",
+    "type": "vocabulary",
+    "filename": "vocab_9f9a43c00037.wav"
+  },
+  "4f819556d179": {
+    "arabic": "من فضلك",
+    "hebrew": "בבקשה (בקשה)",
+    "type": "vocabulary",
+    "filename": "vocab_4f819556d179.wav"
+  },
+  "f6f108c346a7": {
+    "arabic": "ولاو",
+    "hebrew": "תשובה לתודה",
+    "type": "vocabulary",
+    "filename": "vocab_f6f108c346a7.wav"
+  },
+  "b67a8aa8dd1e": {
+    "arabic": "مرتاح؟",
+    "hebrew": "נוח לך?",
+    "type": "vocabulary",
+    "filename": "vocab_b67a8aa8dd1e.wav"
+  },
+  "7687678a057a": {
+    "arabic": "الله يخليك",
+    "hebrew": "שאללה ישמור אותך",
+    "type": "vocabulary",
+    "filename": "vocab_7687678a057a.wav"
+  },
+  "e29bf6d0d092": {
+    "arabic": "تصبح على خير",
+    "hebrew": "לילה טוב",
+    "type": "vocabulary",
+    "filename": "vocab_e29bf6d0d092.wav"
+  },
+  "2394951b3aad": {
+    "arabic": "يا حج / يا خال",
+    "hebrew": "פניית כבוד (מבוגר)",
+    "type": "vocabulary",
+    "filename": "vocab_2394951b3aad.wav"
+  },
+  "758e5b490ba0": {
+    "arabic": "يا حكيم",
+    "hebrew": "פניית כבוד (רופא)",
+    "type": "vocabulary",
+    "filename": "vocab_758e5b490ba0.wav"
+  },
+  "506f7d072bf2": {
+    "arabic": "صحة",
+    "hebrew": "תהיה בריא",
+    "type": "vocabulary",
+    "filename": "vocab_506f7d072bf2.wav"
+  },
+  "9ec8fe6bde09": {
+    "arabic": "صحتين وهنا",
+    "hebrew": "בתיאבון",
+    "type": "vocabulary",
+    "filename": "vocab_9ec8fe6bde09.wav"
+  },
+  "bb153dcf1de4": {
+    "arabic": "حضرتك",
+    "hebrew": "כבודו",
+    "type": "vocabulary",
+    "filename": "vocab_bb153dcf1de4.wav"
+  },
+  "f72de652c5a6": {
+    "arabic": "ما شاء الله",
+    "hebrew": "מאשאללה",
+    "type": "vocabulary",
+    "filename": "vocab_f72de652c5a6.wav"
+  },
+  "cf5de8235cd5": {
+    "arabic": "بسم الله",
+    "hebrew": "ביסמיללה",
+    "type": "vocabulary",
+    "filename": "vocab_cf5de8235cd5.wav"
+  },
+  "8e015fdeb371": {
+    "arabic": "والله؟",
+    "hebrew": "וואלה?",
+    "type": "vocabulary",
+    "filename": "vocab_8e015fdeb371.wav"
+  },
+  "aff210516914": {
+    "arabic": "يلا",
+    "hebrew": "יאללה",
+    "type": "vocabulary",
+    "filename": "vocab_aff210516914.wav"
+  },
+  "280d83e98ce8": {
+    "arabic": "حرام",
+    "hebrew": "חראם",
+    "type": "vocabulary",
+    "filename": "vocab_280d83e98ce8.wav"
+  },
+  "6dd4a47a5b55": {
+    "arabic": "حلال",
+    "hebrew": "חלאל",
+    "type": "vocabulary",
+    "filename": "vocab_6dd4a47a5b55.wav"
+  },
+  "60a202abec8f": {
+    "arabic": "حبيبي",
+    "hebrew": "חביבי",
+    "type": "vocabulary",
+    "filename": "vocab_60a202abec8f.wav"
+  },
+  "b0723bd49371": {
+    "arabic": "يا عيوني",
+    "hebrew": "יא עיוני",
+    "type": "vocabulary",
+    "filename": "vocab_b0723bd49371.wav"
+  },
+  "98b280b09778": {
+    "arabic": "على راسي",
+    "hebrew": "על ראסי",
+    "type": "vocabulary",
+    "filename": "vocab_98b280b09778.wav"
+  },
+  "59a43374afe8": {
+    "arabic": "دير بالك",
+    "hebrew": "תיזהר",
+    "type": "vocabulary",
+    "filename": "vocab_59a43374afe8.wav"
+  },
+  "5afa1d57a205": {
+    "arabic": "شوي شوي",
+    "hebrew": "לאט לאט",
+    "type": "vocabulary",
+    "filename": "vocab_5afa1d57a205.wav"
+  },
+  "782b64b08fdd": {
+    "arabic": "بسرعة",
+    "hebrew": "מהר",
+    "type": "vocabulary",
+    "filename": "vocab_782b64b08fdd.wav"
+  },
+  "feace786b90a": {
+    "arabic": "بالنجاح",
+    "hebrew": "בהצלחה",
+    "type": "vocabulary",
+    "filename": "vocab_feace786b90a.wav"
+  },
+  "5cec3d60554e": {
+    "arabic": "لا تقلق",
+    "hebrew": "אל תדאג",
+    "type": "vocabulary",
+    "filename": "vocab_5cec3d60554e.wav"
+  },
+  "65d2597a403f": {
+    "arabic": "كل شي رح يكون تمام",
+    "hebrew": "הכל יהיה בסדר",
+    "type": "vocabulary",
+    "filename": "vocab_65d2597a403f.wav"
+  },
+  "343b3f56bd4b": {
+    "arabic": "الله يقويك",
+    "hebrew": "אלוהים יתן לך כוח",
+    "type": "vocabulary",
+    "filename": "vocab_343b3f56bd4b.wav"
+  },
+  "a7dc9ac18376": {
+    "arabic": "رحمة الله واسعة",
+    "hebrew": "רחמי האל רחבים",
+    "type": "vocabulary",
+    "filename": "vocab_a7dc9ac18376.wav"
+  },
+  "c46fb38f2458": {
+    "arabic": "تطعيم",
+    "hebrew": "חיסון",
+    "type": "vocabulary",
+    "filename": "vocab_c46fb38f2458.wav"
+  },
+  "3b7877f1d11c": {
+    "arabic": "نمو",
+    "hebrew": "התפתחות",
+    "type": "vocabulary",
+    "filename": "vocab_3b7877f1d11c.wav"
+  },
+  "fde21b0e282c": {
+    "arabic": "جدول النمو",
+    "hebrew": "טבלת גדילה",
+    "type": "vocabulary",
+    "filename": "vocab_fde21b0e282c.wav"
+  },
+  "3eea91c30188": {
+    "arabic": "أسنان لبنية",
+    "hebrew": "שיני חלב",
+    "type": "vocabulary",
+    "filename": "vocab_3eea91c30188.wav"
+  },
+  "8bb51f59cc70": {
+    "arabic": "طفل صغير",
+    "hebrew": "ילד פעוט",
+    "type": "vocabulary",
+    "filename": "vocab_8bb51f59cc70.wav"
+  },
+  "51505e06cc05": {
+    "arabic": "رضيع",
+    "hebrew": "תינוק",
+    "type": "vocabulary",
+    "filename": "vocab_51505e06cc05.wav"
+  },
+  "65cbcabe7af3": {
+    "arabic": "استفراغ / تقيؤ",
+    "hebrew": "הקאות",
+    "type": "vocabulary",
+    "filename": "vocab_65cbcabe7af3.wav"
+  },
+  "1307e43f5143": {
+    "arabic": "حرارة أسنان",
+    "hebrew": "חום פריקה",
+    "type": "vocabulary",
+    "filename": "vocab_1307e43f5143.wav"
+  },
+  "1a61639eddd6": {
+    "arabic": "طفح حفاظ",
+    "hebrew": "פריחת טביעות",
+    "type": "vocabulary",
+    "filename": "vocab_1a61639eddd6.wav"
+  },
+  "4ef7b3c95d64": {
+    "arabic": "عادة / دورة",
+    "hebrew": "וסת",
+    "type": "vocabulary",
+    "filename": "vocab_4ef7b3c95d64.wav"
+  },
+  "f05435078dd7": {
+    "arabic": "عملية قيصرية",
+    "hebrew": "ניתוח קיסרי",
+    "type": "vocabulary",
+    "filename": "vocab_f05435078dd7.wav"
+  },
+  "67e2c1369a1e": {
+    "arabic": "رضاعة",
+    "hebrew": "הנקה",
+    "type": "vocabulary",
+    "filename": "vocab_67e2c1369a1e.wav"
+  },
+  "5b8e4f1bbd5a": {
+    "arabic": "طبيب نسائية",
+    "hebrew": "גניקולוג",
+    "type": "vocabulary",
+    "filename": "vocab_5b8e4f1bbd5a.wav"
+  },
+  "bef3d387b26c": {
+    "arabic": "قابلة",
+    "hebrew": "מיילדת",
+    "type": "vocabulary",
+    "filename": "vocab_bef3d387b26c.wav"
+  },
+  "b59e23d50ad9": {
+    "arabic": "فحص عنق الرحم",
+    "hebrew": "בדיקת צוואר רחם",
+    "type": "vocabulary",
+    "filename": "vocab_b59e23d50ad9.wav"
+  },
+  "a4b8c8d0c5d1": {
+    "arabic": "تصوير ثدي",
+    "hebrew": "ממוגרפיה",
+    "type": "vocabulary",
+    "filename": "vocab_a4b8c8d0c5d1.wav"
+  },
+  "c0089c82ce72": {
+    "arabic": "ثدي",
+    "hebrew": "שד",
+    "type": "vocabulary",
+    "filename": "vocab_c0089c82ce72.wav"
+  },
+  "3b40727bd3aa": {
+    "arabic": "متزوجة",
+    "hebrew": "נשואה",
+    "type": "vocabulary",
+    "filename": "vocab_3b40727bd3aa.wav"
+  },
+  "a77318f18731": {
+    "arabic": "وين الحمام؟",
+    "hebrew": "איפה השירותים?",
+    "type": "admin",
+    "filename": "admin_a77318f18731.wav"
+  },
+  "e377dba1f64b": {
+    "arabic": "روح دغري",
+    "hebrew": "לך ישר",
+    "type": "admin",
+    "filename": "admin_e377dba1f64b.wav"
+  },
+  "d97fce3043d9": {
+    "arabic": "على اليمين",
+    "hebrew": "בצד ימין",
+    "type": "admin",
+    "filename": "admin_d97fce3043d9.wav"
+  },
+  "261e9a420b59": {
+    "arabic": "على الشمال",
+    "hebrew": "בצד שמאל",
+    "type": "admin",
+    "filename": "admin_261e9a420b59.wav"
+  },
+  "8e7b0db26517": {
+    "arabic": "بدي أحجز موعد",
+    "hebrew": "אני רוצה לקבוע תור",
+    "type": "admin",
+    "filename": "admin_8e7b0db26517.wav"
+  },
+  "39a95fd19fd1": {
+    "arabic": "شو رقم الهوية؟",
+    "hebrew": "מה מספר תעודת זהות?",
+    "type": "admin",
+    "filename": "admin_39a95fd19fd1.wav"
+  },
+  "1eddbab7b7b7": {
+    "arabic": "إستنى هون لو سمحت",
+    "hebrew": "חכה כאן בבקשה",
+    "type": "admin",
+    "filename": "admin_1eddbab7b7b7.wav"
+  },
+  "c8af7d2dc2e2": {
+    "arabic": "أقعد على الكرسي / تفضل إرتاح",
+    "hebrew": "שב על הכיסא",
+    "type": "admin",
+    "filename": "admin_c8af7d2dc2e2.wav"
+  },
+  "090f35bb9c66": {
+    "arabic": "الدكتور جاي",
+    "hebrew": "הרופא בא",
+    "type": "admin",
+    "filename": "admin_090f35bb9c66.wav"
+  },
+  "54b377108ba0": {
+    "arabic": "وقع هون",
+    "hebrew": "תחתום כאן",
+    "type": "admin",
+    "filename": "admin_54b377108ba0.wav"
+  },
+  "68f2020ab239": {
+    "arabic": "معك تأمين؟",
+    "hebrew": "יש לך ביטוח?",
+    "type": "admin",
+    "filename": "admin_68f2020ab239.wav"
+  },
+  "55cd35e0234f": {
+    "arabic": "قديش تكلفة الزيارة؟",
+    "hebrew": "כמה עולה הביקור?",
+    "type": "admin",
+    "filename": "admin_55cd35e0234f.wav"
+  },
+  "523b2e7d04f0": {
+    "arabic": "إشلح أواعيك",
+    "hebrew": "תתפשט (בגדים)",
+    "type": "admin",
+    "filename": "admin_523b2e7d04f0.wav"
+  },
+  "9ffc0a9f8937": {
+    "arabic": "إلبس أواعيك",
+    "hebrew": "תתלבש",
+    "type": "admin",
+    "filename": "admin_9ffc0a9f8937.wav"
+  },
+  "eb1676845fc3": {
+    "arabic": "نتيجة الفحص",
+    "hebrew": "תוצאת הבדיקה",
+    "type": "admin",
+    "filename": "admin_eb1676845fc3.wav"
+  },
+  "cf70e786dd42": {
+    "arabic": "إرجع بكرا",
+    "hebrew": "תחזור מחר",
+    "type": "admin",
+    "filename": "admin_cf70e786dd42.wav"
+  },
+  "1c4b39abe036": {
+    "arabic": "خد الورقة",
+    "hebrew": "קח את הנייר",
+    "type": "admin",
+    "filename": "admin_1c4b39abe036.wav"
+  },
+  "de5fa0ba3b09": {
+    "arabic": "روح عالصيدلية",
+    "hebrew": "לך לבית מרקחת",
+    "type": "admin",
+    "filename": "admin_de5fa0ba3b09.wav"
+  },
+  "ba1c44dc7497": {
+    "arabic": "دور للطوارئ",
+    "hebrew": "תור למיון",
+    "type": "admin",
+    "filename": "admin_ba1c44dc7497.wav"
+  },
+  "5d9a70f9a64b": {
+    "arabic": "غرفة رقم خمسة",
+    "hebrew": "חדר מספר 5",
+    "type": "admin",
+    "filename": "admin_5d9a70f9a64b.wav"
+  },
+  "d3813d1f5985": {
+    "arabic": "شو إسمك؟",
+    "hebrew": "מה השם שלך?",
+    "type": "admin",
+    "filename": "admin_d3813d1f5985.wav"
+  },
+  "2959b686fdab": {
+    "arabic": "شو العنوان؟",
+    "hebrew": "מה הכתובת?",
+    "type": "admin",
+    "filename": "admin_2959b686fdab.wav"
+  },
+  "bd3292680125": {
+    "arabic": "شو رقم التلفون؟",
+    "hebrew": "מה מספר הטלפון?",
+    "type": "admin",
+    "filename": "admin_bd3292680125.wav"
+  },
+  "c8534348f032": {
+    "arabic": "إملى الإستمارة",
+    "hebrew": "תמלא את הטופס",
+    "type": "admin",
+    "filename": "admin_c8534348f032.wav"
+  },
+  "bb3c9ecadc23": {
+    "arabic": "ورجيني الهوية",
+    "hebrew": "הצג תעודת זהות",
+    "type": "admin",
+    "filename": "admin_bb3c9ecadc23.wav"
+  },
+  "25ad2ecf1b67": {
+    "arabic": "الدور الجاي",
+    "hebrew": "תור הבא",
+    "type": "admin",
+    "filename": "admin_25ad2ecf1b67.wav"
+  },
+  "440a15c51162": {
+    "arabic": "إستنى شوي",
+    "hebrew": "המתן רגע",
+    "type": "admin",
+    "filename": "admin_440a15c51162.wav"
+  },
+  "fb75054376c5": {
+    "arabic": "تعال وراي",
+    "hebrew": "בוא אחרי",
+    "type": "admin",
+    "filename": "admin_fb75054376c5.wav"
+  },
+  "9758e4254774": {
+    "arabic": "أدخل للغرفة",
+    "hebrew": "הכנס לחדר",
+    "type": "admin",
+    "filename": "admin_9758e4254774.wav"
+  },
+  "873dd587998f": {
+    "arabic": "أطلع من الغرفة",
+    "hebrew": "צא מהחדר",
+    "type": "admin",
+    "filename": "admin_873dd587998f.wav"
+  },
+  "089e3d7df748": {
+    "arabic": "سكر الباب",
+    "hebrew": "סגור את הדלת",
+    "type": "admin",
+    "filename": "admin_089e3d7df748.wav"
+  },
+  "72ecd54b872b": {
+    "arabic": "إفتح الشباك",
+    "hebrew": "פתח את החלון",
+    "type": "admin",
+    "filename": "admin_72ecd54b872b.wav"
+  },
+  "34fd0382a814": {
+    "arabic": "أقعد هون",
+    "hebrew": "שב כאן",
+    "type": "admin",
+    "filename": "admin_34fd0382a814.wav"
+  },
+  "b67b6bb3b74e": {
+    "arabic": "إطلع للمصعد",
+    "hebrew": "עלה למעלית",
+    "type": "admin",
+    "filename": "admin_b67b6bb3b74e.wav"
+  },
+  "4ed7df5239ec": {
+    "arabic": "الطابق التاني",
+    "hebrew": "קומה שנייה",
+    "type": "admin",
+    "filename": "admin_4ed7df5239ec.wav"
+  },
+  "1df52c21d472": {
+    "arabic": "آخر الممر",
+    "hebrew": "בסוף המסדרון",
+    "type": "admin",
+    "filename": "admin_1df52c21d472.wav"
+  },
+  "5cabd20d4254": {
+    "arabic": "لف على الشمال",
+    "hebrew": "לפנות שמאלה",
+    "type": "admin",
+    "filename": "admin_5cabd20d4254.wav"
+  },
+  "b3f68bd437b6": {
+    "arabic": "لف على اليمين",
+    "hebrew": "לפנות ימינה",
+    "type": "admin",
+    "filename": "admin_b3f68bd437b6.wav"
+  },
+  "0d9e6813399b": {
+    "arabic": "الصيدلية تحت",
+    "hebrew": "הבית מרקחת למטה",
+    "type": "admin",
+    "filename": "admin_0d9e6813399b.wav"
+  },
+  "8d7dcf37f3e2": {
+    "arabic": "إنزل / إطلع الدرج",
+    "hebrew": "קח את המדרגות",
+    "type": "admin",
+    "filename": "admin_8d7dcf37f3e2.wav"
+  },
+  "5fb75e630979": {
+    "arabic": "الأسنسير قدامك",
+    "hebrew": "המעלית לפניך",
+    "type": "admin",
+    "filename": "admin_5fb75e630979.wav"
+  },
+  "11d4475787c9": {
+    "arabic": "الطابق الأول",
+    "hebrew": "קומה ראשונה",
+    "type": "admin",
+    "filename": "admin_11d4475787c9.wav"
+  },
+  "492aa859511f": {
+    "arabic": "الطابق الثالث",
+    "hebrew": "קומה שלישית",
+    "type": "admin",
+    "filename": "admin_492aa859511f.wav"
+  },
+  "b452bb8a0d1f": {
+    "arabic": "الطابق الأرضي",
+    "hebrew": "קומת קרקע",
+    "type": "admin",
+    "filename": "admin_b452bb8a0d1f.wav"
+  },
+  "b18695df6098": {
+    "arabic": "روح لآخر الممر ولف على اليمين",
+    "hebrew": "לך עד סוף המסדרון ופנה ימינה",
+    "type": "admin",
+    "filename": "admin_b18695df6098.wav"
+  },
+  "ef71cccfea1b": {
+    "arabic": "القسم بالطابق التاني",
+    "hebrew": "המחלקה בקומה השנייה",
+    "type": "admin",
+    "filename": "admin_ef71cccfea1b.wav"
+  },
+  "1f8770f59a50": {
+    "arabic": "روح عالسكرتاريا بالطابق الأرضي",
+    "hebrew": "לך למזכירות בקומת קרקע",
+    "type": "admin",
+    "filename": "admin_1f8770f59a50.wav"
+  },
+  "e3d8ac367aa0": {
+    "arabic": "المدخل من جهة الشمال",
+    "hebrew": "הכניסה מצד שמאל",
+    "type": "admin",
+    "filename": "admin_e3d8ac367aa0.wav"
+  },
+  "6d9f8d0499d5": {
+    "arabic": "المخرج من ورا",
+    "hebrew": "היציאה מאחורה",
+    "type": "admin",
+    "filename": "admin_6d9f8d0499d5.wav"
+  },
+  "4ff58ae69181": {
+    "arabic": "إستنى بغرفة الإنتظار",
+    "hebrew": "חכה בחדר המתנה",
+    "type": "admin",
+    "filename": "admin_4ff58ae69181.wav"
+  },
+  "6e6ec2a6dc80": {
+    "arabic": "عندك موعد اليوم؟",
+    "hebrew": "יש לך פגישה היום?",
+    "type": "admin",
+    "filename": "admin_6e6ec2a6dc80.wav"
+  },
+  "3f1949ca47bc": {
+    "arabic": "الموعد مع الطبيب النفسي الساعة عشرة",
+    "hebrew": "הפגישה עם הפסיכיאטר בשעה 10",
+    "type": "admin",
+    "filename": "admin_3f1949ca47bc.wav"
+  },
+  "f415a7c8baba": {
+    "arabic": "روح للسكرتيرة بالغرفة الأولى",
+    "hebrew": "לך למזכירה בחדר הראשון",
+    "type": "admin",
+    "filename": "admin_f415a7c8baba.wav"
+  },
+  "1afc9497b06d": {
+    "arabic": "لازم تقييم قبل التشخيص",
+    "hebrew": "צריך הערכה לפני האבחון",
+    "type": "admin",
+    "filename": "admin_1afc9497b06d.wav"
+  },
+  "369adb731990": {
+    "arabic": "جيب الموافقة",
+    "hebrew": "תביא את האישור",
+    "type": "admin",
+    "filename": "admin_369adb731990.wav"
+  },
+  "6f0c135143cb": {
+    "arabic": "هادا ببلاش",
+    "hebrew": "זה בחינם",
+    "type": "admin",
+    "filename": "admin_6f0c135143cb.wav"
+  },
+  "93aea8b8df7c": {
+    "arabic": "هادا بفلوس",
+    "hebrew": "זה בתשלום",
+    "type": "admin",
+    "filename": "admin_93aea8b8df7c.wav"
+  },
+  "1b363b325247": {
+    "arabic": "إدفع بالصندوق",
+    "hebrew": "שלם בקופה",
+    "type": "admin",
+    "filename": "admin_1b363b325247.wav"
+  },
+  "d967beeaea96": {
+    "arabic": "التأمين مش بغطي",
+    "hebrew": "הביטוח לא מכסה",
+    "type": "admin",
+    "filename": "admin_d967beeaea96.wav"
+  },
+  "d00ad716468c": {
+    "arabic": "لازم موافقة من الصندوق",
+    "hebrew": "צריך אישור מהקופה",
+    "type": "admin",
+    "filename": "admin_d00ad716468c.wav"
+  },
+  "0305215a736e": {
+    "arabic": "إرجع مع النتائج",
+    "hebrew": "תחזור עם התוצאות",
+    "type": "admin",
+    "filename": "admin_0305215a736e.wav"
+  },
+  "8f58a18ba540": {
+    "arabic": "كول قبل الفحص",
+    "hebrew": "תאכל לפני הבדיקה",
+    "type": "admin",
+    "filename": "admin_8f58a18ba540.wav"
+  },
+  "05cb8be8ad95": {
+    "arabic": "لا تاكل قبل",
+    "hebrew": "לא לאכול לפני",
+    "type": "admin",
+    "filename": "admin_05cb8be8ad95.wav"
+  },
+  "ae8159571e8f": {
+    "arabic": "إشرب مي كتير",
+    "hebrew": "תשתה הרבה מים",
+    "type": "admin",
+    "filename": "admin_ae8159571e8f.wav"
+  },
+  "319881f91b05": {
+    "arabic": "الفحص بوخد نص ساعة",
+    "hebrew": "הבדיקה נמשכת חצי שעה",
+    "type": "admin",
+    "filename": "admin_319881f91b05.wav"
+  },
+  "dfa59c31dbaa": {
+    "arabic": "النتائج بكرا",
+    "hebrew": "התוצאות מחר",
+    "type": "admin",
+    "filename": "admin_dfa59c31dbaa.wav"
+  },
+  "7ab98ce83dc0": {
+    "arabic": "منبعت بالبريد",
+    "hebrew": "נשלח בדואר",
+    "type": "admin",
+    "filename": "admin_7ab98ce83dc0.wav"
+  },
+  "e442991ed963": {
+    "arabic": "إفحص بالتطبيق",
+    "hebrew": "תבדוק באפליקציה",
+    "type": "admin",
+    "filename": "admin_e442991ed963.wav"
+  },
+  "76534eef7819": {
+    "arabic": "في أسئلة تانية؟",
+    "hebrew": "יש עוד שאלות?",
+    "type": "admin",
+    "filename": "admin_76534eef7819.wav"
+  },
+  "f819502c7448": {
+    "arabic": "بالنجاح!",
+    "hebrew": "בהצלחה!",
+    "type": "admin",
+    "filename": "admin_f819502c7448.wav"
+  },
+  "3daa1bdfd681": {
+    "arabic": "سلامتك!",
+    "hebrew": "החלמה מהירה!",
+    "type": "admin",
+    "filename": "admin_3daa1bdfd681.wav"
+  },
+  "fea76fd54f4d": {
+    "arabic": "دير بالك على حالك",
+    "hebrew": "שמור על עצמך",
+    "type": "admin",
+    "filename": "admin_fea76fd54f4d.wav"
+  },
+  "0f64893dcc18": {
+    "arabic": "الصيدلية فاتحة لحد العشرة",
+    "hebrew": "בית המרקחת פתוח עד 10",
+    "type": "admin",
+    "filename": "admin_0f64893dcc18.wav"
+  },
+  "981514e13455": {
+    "arabic": "بدك مرافق؟",
+    "hebrew": "אתה צריך מלווה?",
+    "type": "admin",
+    "filename": "admin_981514e13455.wav"
+  }
+}
