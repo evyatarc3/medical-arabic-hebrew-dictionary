@@ -2361,7 +2361,16 @@ function ArabicVocabularyApp() {
   } else if (selectedDialect === 'galilee' && word.transcriptionGalilee) {
   return word.transcriptionGalilee;
   }
-  return word.transcription || word.transcriptionJerusalem || '';
+  if (word.transcription) return word.transcription;
+  if (word.transcriptionJerusalem) return word.transcriptionJerusalem;
+  // Fallback: build from masculine/feminine fields
+  if (word.masculine || word.feminine) {
+  let parts = [];
+  if (word.masculine) parts.push('ז: ' + word.masculine);
+  if (word.feminine) parts.push('נ: ' + word.feminine);
+  return parts.join(' | ');
+  }
+  return '';
   };
 
   // ALL HOOKS MUST BE BEFORE ANY CONDITIONAL RETURNS
@@ -2386,11 +2395,16 @@ function ArabicVocabularyApp() {
   } else if (selectedDialect === 'galilee' && word.transcriptionGalilee) {
   transcription = word.transcriptionGalilee;
   }
+  // Also search in masculine/feminine fields
+  const masc = word.masculine || '';
+  const fem = word.feminine || '';
   // Use removeNikkud for comparison to allow searching without vowel points
   const termClean = removeNikkud(term);
   return (word.hebrew || '').toLowerCase().includes(term) ||
   (word.arabic || '').includes(searchTerm) ||
-  removeNikkud(transcription.toLowerCase()).includes(termClean);
+  removeNikkud(transcription.toLowerCase()).includes(termClean) ||
+  removeNikkud(masc.toLowerCase()).includes(termClean) ||
+  removeNikkud(fem.toLowerCase()).includes(termClean);
   });
   }
 
